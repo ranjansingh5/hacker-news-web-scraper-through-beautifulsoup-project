@@ -13,6 +13,19 @@ It extracts important information from the homepage such as:
 
 ---
 
+## Table of Contents
+
+- [Data Source](data-source)
+- [Features](features)
+- [Technologies Used](technologies-used)
+- [Project Structure](project-structure)
+- [How the Script Works](how-the-script-works)
+- [Output](output)
+- [Learning Outcomes](learning-outcomes)
+- [Author](author)
+
+---
+
 ## 🌐 Data Source
 
 Website used in this project:

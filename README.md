@@ -1,4 +1,4 @@
-# 📰 Hacker News Web Scraper (Python + BeautifulSoup)
+# 📰 Hacker News Web Scraper (BeautifulSoup + Python)
 
 ## 📌 Project Overview
 

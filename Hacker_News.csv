@@ -1,845 +1,601 @@
 Title,Link,Rank
-LibreSprite – open-source pixel art editor,https://libresprite.github.io/,1.
-System76 on Age Verification Laws,https://blog.system76.com/post/system76-on-age-verification/,2.
-GPL upgrades via section 14 proxy delegation,https://runxiyu.org/comp/gplproxy/,3.
-GPT-5.4,https://openai.com/index/introducing-gpt-5-4/,4.
-Hardening Firefox with Anthropic's Red Team,https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/,5.
-Async Programming Is Just Inject Time,https://willhbr.net/2026/03/02/async-inject-and-effects/,6.
-10% of Firefox crashes are caused by bitflips,https://mas.to/@gabrielesvelto/116171750653898304,7.
-Show HN: Swarm – Program a colony of 200 ants using a custom assembly language,https://dev.moment.com/,8.
-Elite Overproduction,https://en.wikipedia.org/wiki/Elite_overproduction,9.
-A GitHub Issue Title Compromised 4k Developer Machines,https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another,10.
-Payphone Go,https://walzr.com/payphone-go/,11.
-The Brand Age,https://paulgraham.com/brandage.html,12.
-Labor market impacts of AI: A new measure and early evidence,https://www.anthropic.com/research/labor-market-impacts,13.
-Good software knows when to stop,https://ogirardot.writizzy.com/p/good-software-knows-when-to-stop,14.
-Where things stand with the Department of War,https://www.anthropic.com/news/where-stand-department-war,15.
-"A standard protocol to handle and discard low-effort, AI-Generated pull requests",https://406.fail/,16.
-Stardex (YC S21) is hiring customer success engineers,https://www.ycombinator.com/companies/stardex/jobs/lag1C1P-customer-success-engineer-ai-data-migration,17.
-Stupidly Obscure Programming in a Troubled Time (2018),https://blog.podsnap.com/apply.html,18.
-Wikipedia was in read-only mode following mass admin account compromise,https://www.wikimediastatus.net,19.
-First MacBook Neo Benchmarks Are In,https://www.macrumors.com/2026/03/05/macbook-neo-first-benchmarks/,20.
-CBP tapped into the online advertising ecosystem to track peoples’ movements,https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/,21.
-Image manipulation with convolution using Julia,https://medium.com/@Ahmad_Hamze/image-manipulation-with-convolution-using-julia-f898995ac1e5,22.
-AI and the Ship of Theseus,https://lucumr.pocoo.org/2026/3/5/theseus/,23.
-A ternary plot of citrus geneology,https://www.jlauf.com/writing/citrus/,24.
-"Hardware hotplug events on Linux, the gory details",https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html,25.
-Remotely unlocking an encrypted hard disk,https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/,26.
-Judge orders government to begin refunding more than $130B in tariffs,https://www.wsj.com/politics/policy/judge-orders-government-to-begin-refunding-more-than-130-billion-in-tariffs-fdc1e62c,27.
-Screeching Sound of Peeling Tape,https://journals.aps.org/pre/abstract/10.1103/p19h-9ysx,28.
-"Show HN: PageAgent, A GUI agent that lives inside your web app",https://alibaba.github.io/page-agent/,29.
-How to install and start using LineageOS on your phone,https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html,30.
-"Show HN: Jido 2.0, Elixir Agent Framework",https://jido.run/blog/jido-2-0-is-here,31.
-Launch HN: Vela (YC W26) – AI for complex scheduling,item?id=47264741,32.
-"Show HN: Tensor Spy: inspect NumPy and PyTorch tensors in the browser, no upload",https://tensorspy.com/,33.
-Data does not speak to you,https://tantaman.com/2026-03-02-data-doesnt-speak.html,34.
-The home computer war,https://technicshistory.com/2026/03/06/the-home-computer-war/,35.
-Hacking Super Mario 64 using covering spaces,https://happel.ai/posts/covering-spaces-geometries-visualized/,36.
-TeX Live 2026 is available for download now,https://www.tug.org/texlive/acquire.html,37.
-OpenTitan Shipping in Production,https://opensource.googleblog.com/2026/03/opentitan-shipping-in-production.html,38.
-Every Claim from Meta Child Safety Trials,https://meta-trials.vercel.app/,39.
-Nobody ever got fired for using a struct,https://www.feldera.com/blog/nobody-ever-got-fired-for-using-a-struct,40.
-Poor Man's Polaroid,https://boxart.lt/blog/poor_mans_polaroid?locale=en,41.
-The Illusion of Building,https://uphack.io/blog/post/the-illusion-of-building/,42.
-Converting dash cam videos into Panoramax images,https://www.openstreetmap.org/user/FeetAndInches/diary/408268,43.
-Optimizing Recommendation Systems with JDK's Vector API,https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec,44.
-Greg Kroah-Hartman Stretches Support Periods for Key Linux LTS Kernels,https://fossforce.com/2026/03/greg-kroah-hartman-stretches-support-periods-for-key-linux-lts-kernels/,45.
-MacBook Neo,https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/,46.
-Let's Get Physical,https://m4iler.cloud/posts/lets-get-physical/,47.
-Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester,https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/,48.
-Datasets for Reconstructing Visual Perception from Brain Data,https://github.com/seelikat/neuro-visual-reconstruction-dataset-index,49.
-Shut Up and Take My Money,https://lorendb.dev/posts/shut-up-and-take-my-money/,50.
-Cameras built to police Iranians became the regime's Achilles' heel,https://royapakzad.substack.com/p/youre-welcome-mr-supreme-leader,51.
-A man who broke into jail,https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform,52.
-"Parsync, a tool for parallel SSH transfers – 7x faster than rsync",https://github.com/AlpinDale/parsync,53.
-Google Workspace CLI,https://github.com/googleworkspace/cli,54.
-Typst Examples Book,https://sitandr.github.io/typst-examples-book/book/,55.
-"Weight-loss jab could be made for $3 a month, study finds",https://www.theguardian.com/global-development/2026/mar/06/generic-drugs-weight-loss-semaglutide-ozempic-wegovy-diabetes-obesity-study,56.
-GLiNER2: Unified Schema-Based Information Extraction,https://github.com/fastino-ai/GLiNER2,57.
-"Smalltalk's Browser: Unbeatable, yet Not Enough",https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/,58.
-Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control,https://netbsd-jails.petermann-digital.de/,59.
-"The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",https://charm.land/blog/v2/,60.
-Arabic document from 17th-cent. rubbish heap confirms semi-legendary Nubian king,https://phys.org/news/2026-02-arabic-document-17th-century-rubbish.html,61.
-Fast-Servers,https://geocar.sdf1.org/fast-servers.html,62.
-"Mozilla is working on a big Firefox redesign, here is what it looks like",https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/,63.
-Claude's Cycles [pdf],https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf,64.
-Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift,https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23,65.
-Partnering with Mozilla to improve Firefox's security,https://www.anthropic.com/news/mozilla-firefox-security,66.
-Dulce et Decorum Est (1921),https://www.poetryfoundation.org/poems/46560/dulce-et-decorum-est,67.
-US tech firms pledge at White House to bear costs of energy for datacenters,https://www.theguardian.com/us-news/2026/mar/04/us-tech-companies-energy-cost-pledge-white-house,68.
-"How to Found a Company in Germany: 16 ""Easy"" Steps and Lots of Pain",https://eidel.io/posts/how-to-found-a-company-in-germany-14-easy-steps-and-lots-of-pain,69.
-Fixpoints to think clearly,https://blog.yellowflash.in/posts/2026-03-03-fixpoints-for-clarity.html,70.
-The remaking of Thomas Mann,https://www.commonwealmagazine.org/thomas-mann-magic-mountain-jensen,71.
-Breaking Down 50M Pins: A Smarter Way to Design 3D IC Packages,https://www.allaboutcircuits.com/industry-articles/breaking-down-50-million-pins-a-smarter-way-to-design-3d-ic-packages/,72.
-"The L in ""LLM"" Stands for Lying",https://acko.net/blog/the-l-in-llm-stands-for-lying/,73.
-Seventeen Years of Coding and Starting Over,https://www.sunilshenoy.com/2026/03/05/seventeen-years-of-coding-and.html,74.
-OpenBSD on SGI: A Rollercoaster Story,http://miod.online.fr/software/openbsd/stories/sgiall.html,75.
-Motorola GrapheneOS devices will be bootloader unlockable/relockable,https://grapheneos.social/@GrapheneOS/116160393783585567,76.
-"Electrobun and WGPU: Tiny, cross-platform games and ML with Bun",https://blackboard.sh/blog/wgpu-in-electrobun/,77.
-Relicensing with AI-Assisted Rewrite,https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/,78.
-OpenWrt 25.12 Stable Release,https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228,79.
-Building a new Flash,https://bill.newgrounds.com/news/post/1607118,80.
-"Billy bookshelves as a retro motherboard ""rack""",https://rubenerd.com/billy-bookcase-as-a-retro-motherboard-rack/,81.
-World-first gigabit laser link between aircraft and geostationary satellite,https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite,82.
-Show HN: Moji â€“ A read-it-later app with self-organizing smart collections,https://moji.pcding.com,83.
-Enhanced brain cells clear away dementia-related proteins,https://medicalxpress.com/news/2026-03-brain-cells-dementia-proteins.html,84.
-"The Self-Help Trap: What 20 Years of ""Optimizing"" Has Taught Me",https://tim.blog/2026/03/04/the-self-help-trap/,85.
-MyFirst Kids Watch Hacked. Access to Camera and Microphone,https://www.kth.se/en/om/nyheter/centrala-nyheter/kth-studenten-hackade-klocka-for-barn-1.1461249,86.
-Earth Garden: Field Recordings Around the World,https://earth-garden.alen.ro/,87.
-A CPU that runs entirely on GPU,https://github.com/robertcprice/nCPU,88.
-Glaze by Raycast,https://www.glazeapp.com/,89.
-Something is afoot in the land of Qwen,https://simonwillison.net/2026/Mar/4/qwen/,90.
-Raspberry Pi Pico as AM Radio Transmitter,https://www.pesfandiar.com/blog/2026/02/28/pico-am-radio-transmitter,91.
-We might all be AI engineers now,https://yasint.dev/we-might-all-be-ai-engineers-now/,92.
-No right to relicense this project,https://github.com/chardet/chardet/issues/327,93.
-Google Safe Browsing missed 84% of confirmed phishing sites,https://www.norn-labs.com/blog/huginn-report-feb-2026,94.
-Was Windows 1.0's lack of overlapping windows a legal or a technical matter?,https://retrocomputing.stackexchange.com/questions/32511/was-windows-1-0s-lack-of-overlapping-windows-a-legal-or-a-technical-matter,95.
-AMD will bring its “Ryzen AI” processors to standard desktop PCs for first time,https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/,96.
-Remembering mayhem,https://blog.metabrainz.org/2026/03/05/remembering-mayhem/,97.
-Emails to Outlook.com rejected due to a fault or overzealous blocking rules,https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/,98.
-Show HN: Kanon 2 Enricher – the first hierarchical graphitization model,https://isaacus.com/blog/kanon-2-enricher,99.
-Show HN: Poppy – A simple app to stay intentional with relationships,https://poppy-connection-keeper.netlify.app/,100.
-The View from RSS,https://www.carolinecrampton.com/the-view-from-rss/,101.
-RE#: how we built the fastest regex engine in F#,https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/,102.
-Code World Models for Parameter Control in Evolutionary Algorithms,https://www.alphaxiv.org/abs/2602.22260,103.
-A rabbit hole in 5 commits,https://www.codingwithjesse.com/blog/a-rabbit-hole-in-5-commits/,104.
-"To understand our fascination with crystals, researchers gave some to chimps",https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html,105.
-Show HN: Hormuz Crisis Dashboard Real-time shipping disruption tracker,https://www.hormuztracker.com/,106.
-An interactive map of Flock Cams,https://deflock.org/map#map=5/37.125286/-96.284180,107.
-Data has weight but only on SSDs,https://cubiclenate.com/2026/03/04/data-has-weight-but-only-on-ssds-blathering/,108.
-You Just Reveived,https://dylan.gr/1772520728,109.
-Motorola announces a partnership with GrapheneOS,https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/,110.
-Meta’s AI smart glasses and data privacy concerns,https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything,111.
-BMW Group to deploy humanoid robots in production in Germany for the first time,https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en,112.
-Qwen3.5 Fine-Tuning Guide,https://unsloth.ai/docs/models/qwen3.5/fine-tune,113.
-"Show HN: SitDeck – Customizable live dashboard of news, markets, threats",https://sitdeck.com,114.
-British Columbia is permanently adopting daylight time,https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657,115.
-Weave – A language aware merge algorithm based on entities,https://github.com/Ataraxy-Labs/weave,116.
-What Python’s asyncio primitives get wrong about shared state,https://www.inngest.com/blog/no-lost-updates-python-asyncio,117.
-Graphics Programming Resources,https://develop--gpvm-website.netlify.app/resources/,118.
-Show HN: Stacked Game of Life,https://stacked-game-of-life.koenvangilst.nl/,119.
-Ask HN: How many of you hold an amateur radio license in your country?,item?id=47232091,120.
-Firefox Nova – our first look at the browser's big redesign,https://www.omgubuntu.co.uk/2026/03/firefox-nova-redesign,121.
-My spicy take on vibe coding for PMs,https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/,122.
-"TikTok will not introduce end-to-end encryption, saying it makes users less safe",https://www.bbc.com/news/articles/cly2m5e5ke4o,123.
-Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents,item?id=47232903,124.
-MacBook Pro with M5 Pro and M5 Max,https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/,125.
-Intelligence is a commodity. Context is the real AI Moat,https://adlrocha.substack.com/p/adlrocha-intelligence-is-a-commodity,126.
-An effort to secure the Network Time Protocol,https://lwn.net/Articles/1059200/,127.
-Making Firefox's right-click not suck with about:config,https://joshua.hu/firefox-making-right-click-not-suck,128.
-Stop using grey text (2025),https://catskull.net/stop-using-grey-text.html,129.
-"Can coding agents relicense open source through a ""clean room"" implementation?",https://simonwillison.net/2026/Mar/5/chardet/,130.
-“It turns out” (2010),https://jsomers.net/blog/it-turns-out,131.
-Agentic Engineering Patterns,https://simonwillison.net/guides/agentic-engineering-patterns/,132.
-Moss is a pixel canvas where every brush is a tiny program,https://www.moss.town/,133.
-Picking Up a Zillion Pieces of Litter,https://www.sixstepstobetterhealth.com/litter.html,134.
-Libre Solar – Open Hardware for Renewable Energy,https://libre.solar,135.
-Daemon (2006),https://en.wikipedia.org/wiki/Daemon_(novel),136.
-Malm Whale,https://www.atlasobscura.com/places/malm-whale,137.
-Zed new terms required to be 18 years old,https://zed.dev/terms,138.
-The IRIX 6.5.7M (sgi) source code,https://github.com/calmsacibis995/irix-657m-src,139.
-"Female astronauts face clotting risks, five-day weightlessness simulation sugges",https://phys.org/news/2026-03-female-astronauts-clotting-day-weightlessness.html,140.
-Ninth Circuit Allows TOS Amendment by Email–Ireland-Gordy v. Tile,https://blog.ericgoldman.org/archives/2026/03/ninth-circuit-allows-tos-amendment-by-email-ireland-gordy-v-tile.htm,141.
-Faster C software with Dynamic Feature Detection,https://gist.github.com/jjl/d998164191af59a594500687a679b98d,142.
-GZOO Cortex – local-first knowledge graph that watches your project files,https://github.com/gzoonet/cortex,143.
-Modernizing swapping: virtual swap spaces,https://lwn.net/Articles/1059201/,144.
-Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’,https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/,145.
-"The growth of command line options, 1979-Present",https://danluu.com/cli-complexity/,146.
-Ethiopia gets $350M World Bank financing for its digital ID project (2024),https://www.mariblock.com/stories/ethiopia-to-get-350-million-world-bank-financing-for-its-digital-id-project,147.
-NRC issues first commercial reactor construction approval in 10 years [pdf],https://www.nrc.gov/sites/default/files/cdn/doc-collection-news/2026/26-028.pdf,148.
-GPT‑5.3 Instant,https://openai.com/index/gpt-5-3-instant/,149.
-Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic,https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/,150.
-"Crush, Welcome Home",https://charm.land/blog/crush-comes-home/,151.
-"NanoGPT Slowrun: Language Modeling with Limited Data, Infinite Compute",https://qlabs.sh/slowrun,152.
-Relax NG is a schema language for XML (2014),https://relaxng.org/,153.
-The nightmare war scenario is becoming reality in energy markets,https://www.economist.com/finance-and-economics/2026/03/03/the-nightmare-war-scenario-is-becoming-reality-in-energy-markets,154.
-BBC Journalist SEO-Hacks ChatGPT and Google's AI,https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes,155.
-Ask HN: How are you using multi-agent AI systems in your daily workflow?,item?id=47270020,156.
-Dcsctp: An SCTP Implementation for WebRTC Data Channels in Rust,https://github.com/webrtc/dcsctp,157.
-A bit of fluid mechanics from scratch not from scratch,https://tsvibt.blogspot.com/2026/02/a-bit-of-fluid-mechanics-from-scratch.html,158.
-Humans 40k yrs ago developed a system of conventional signs,https://www.pnas.org/doi/10.1073/pnas.2520385123,159.
-California's Problematic Attempt to Add Age-Verification to Software,https://hackaday.com/2026/03/05/californias-problematic-attempt-to-add-age-verification-to-software/,160.
-Dbslice: Extract a slice of your production database to reproduce bugs,https://github.com/nabroleonx/dbslice,161.
-How Much Money Jeff Bezos Made Since You Started Reading This Page,https://bezoscalculator.com/,162.
-Espflash – Go CLI/library for flashing ESP8266/ESP32 with no dependencies,https://github.com/tinygo-org/espflash,163.
-Government grant-funded research should not be published in for-profit journals,https://www.experimental-history.com/p/the-one-science-reform-we-can-all,164.
-Dasalinization Plants as Military Targets,https://theconversation.com/persian-gulf-desalination-plants-could-become-military-targets-in-regional-war-277597,165.
-My Favorite 39C3 Talks,https://asindu.xyz/my-favorite-39c3-talks/,166.
-Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming,item?id=47220320,167.
-RFC 9849. TLS Encrypted Client Hello,https://www.rfc-editor.org/rfc/rfc9849.html,168.
-Modern Illustration: Archive of illustration from c.1950-1975,https://www.modernillustration.org,169.
-TorchLean: Formalizing Neural Networks in Lean,https://leandojo.org/torchlean.html,170.
-A Visual Guide to DNA Sequencing,https://www.asimov.press/p/dna-sequencing,171.
-Ars Technica fires reporter after AI controversy involving fabricated quotes,https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes,172.
-The FCC Wants Your Next Customer Service Agent to Be in the U.S.,https://www.wsj.com/business/telecom/the-fcc-wants-your-next-customer-service-agent-to-be-in-the-u-s-3c44e14e,173.
-Comparing Python packages for A/B test analysis (with code examples),https://e10v.me/python-packages-for-ab-test-analysis/,174.
-Elevator Saga: The elevator programming game (2015),https://play.elevatorsaga.com/index.html,175.
-“Microslop” filtered in the official Microsoft Copilot Discord server,https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/,176.
-Show HN: Rust compiler in PHP emitting x86-64 executables,https://github.com/mrconter1/rustc-php,177.
-Physics Girl: Super-Kamiokande – Imaging the sun by detecting neutrinos [video],https://www.youtube.com/watch?v=B3m3AMRlYfc,178.
-10–97% in nine minutes: BYD presents second generation of Blade Battery,https://www.electrive.com/2026/03/05/10-97-in-nine-minutes-byd-presents-second-generation-of-blade-battery/,179.
-Flip Distance of Convex Triangulations and Tree Rotation Is NP-Complete,https://arxiv.org/abs/2602.22874,180.
-Terminal Graphics Protocol,https://sw.kovidgoyal.net/kitty/graphics-protocol/,181.
-The Rust calling convention we deserve (2024),https://mcyoung.xyz/2024/04/17/calling-convention/,182.
-Show HN: Kybernis – Prevent AI agents from executing the same action twice,https://kybernis.io,183.
-A Number with a Shadow,https://campedersen.com/tang,184.
-Microgpt,http://karpathy.github.io/2026/02/12/microgpt/,185.
-Mac Studio 512GB RAM Option Disappears Amid Global DRAM Shortage,https://www.macrumors.com/2026/03/05/mac-studio-no-512gb-ram-upgrade/,186.
-I'm losing the SEO battle for my own open source project,https://twitter.com/Gavriel_Cohen/status/2028821432759717930,187.
-Pentagon formally labels Anthropic supply-chain risk,https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523,188.
-Sem – Semantic Diff behind the new viral merge algo Weave,https://github.com/Ataraxy-Labs/sem,189.
-We Built a Video Rendering Engine by Lying to the Browser About What Time It Is,https://blog.replit.com/browsers-dont-want-to-be-cameras,190.
-Show HN: Vertex.js – A 1kloc SPA Framework,https://lukeb42.github.io/vertex-manual.html,191.
-We've freed Cookie's Bustle from copyright hell,https://gamehistory.org/cookies-bustle/,192.
-Stop the Interviews,https://blog.joeschrag.com/2026/03/stop-interviews.html,193.
-NY bill to require devices to conduct commercially reasonable age assurance,https://github.com/flatpak/xdg-desktop-portal/pull/1922,194.
-On the Design of Programming Languages (1974) [pdf],https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF,195.
-"Judges to AG: It's OK for the Gov't to Dox People, but Not the Other Way Around?",https://www.techdirt.com/2026/03/05/judges-to-ag-pam-bondi-its-ok-for-the-govt-to-dox-people-but-not-ok-for-people-to-dox-govt-employees/,196.
-Indefinite Book Club Hiatus,https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/,197.
-I'm reluctant to verify my identity or age for any online services,https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/,198.
-The beauty and terror of modding Windows,https://windowsread.me/p/windhawk-explained,199.
-MacBook Air with M5,https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/,200.
-Parallel coding agents with tmux and Markdown specs,https://schipper.ai/posts/parallel-coding-agents/,201.
-AWS outage due to drone attacks in UAE,https://www.bbc.com/news/articles/cgk28nj0lrjo,202.
-Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups,https://github.com/lixiasky-back/coroTracer,203.
-You can use newline characters in URLs,https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/,204.
-"Right-sizes LLM models to your system's RAM, CPU, and GPU",https://github.com/AlexsJones/llmfit,205.
-"The Xkcd thing, now interactive",https://editor.p5js.org/isohedral/full/vJa5RiZWs,206.
-Disable Your SSH access accidentally with scp,https://sny.sh/hypha/blog/scp,207.
-You need to rewrite your CLI for AI agents,https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/,208.
-A Technology for a Low-Trust Society,https://www.theatlantic.com/technology/2026/03/central-lie-prediction-markets/686250/,209.
-Ask HN: Who wants to be hired? (March 2026),item?id=47219667,210.
-Voxile: A ray-traced game made in its own engine and programming language,https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update,211.
-I built a pint-sized Macintosh,https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/,212.
-Better JIT for Postgres,https://github.com/vladich/pg_jitter,213.
-Claude Code told me what tools it needs to work faster,https://sderosiaux.substack.com/p/claude-code-told-me-what-tools-it,214.
-"When AI writes the software, who verifies it?",https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html,215.
-$800 Monthly Car Payments Are Hurting Car Sales,https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html,216.
-Daily Driving GrapheneOS,https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/,217.
-Ageless Linux: A Debian-based distro that is illegal to distribute in California,https://goblincorps.com/ageless-linux.html,218.
-Approximation Game,https://lcamtuf.substack.com/p/approximation-game,219.
-Ask HN: Do You Enjoy Your Career in Tech Nowadays?,item?id=47266782,220.
-Show HN: Reformat Word document citations (APA/Vancouver) in <1 second,https://github.com/brodie-neuro/ScholarRef,221.
-Z80 Sans – a disassembler in a font (2024),https://github.com/nevesnunes/z80-sans,222.
-How Iran is using cheap drones to cause chaos across the Middle East,https://www.bbc.co.uk/news/resources/idt-b3a272f0-3e10-4f95-9cd1-b34ab8ad033c,223.
-Claude is an Electron App because we've lost native,https://tonsky.me/blog/fall-of-native/,224.
-Show HN: A shell-native cd-compatible directory jumper using power-law frecency,https://github.com/jghub/sd-switchdir,225.
-Computer scientists caution against internet age-verification mandates,https://reason.com/2026/03/04/computer-scientists-caution-against-internet-age-verification-mandates/,226.
-Welcoming Elizabeth Barron as the New Executive Director of the PHP Foundation,https://thephp.foundation/blog/2026/02/27/welcoming-elizabeth-barron-new-executive-director/,227.
-Medical journal says the case reports it has published for 25 years are fiction,https://retractionwatch.com/2026/03/03/canadian-pediatric-society-journal-correction-case-reports-fictional-paediatrics-child-health/,228.
-Guilty Displeasures,https://www.hopefulmons.com/p/what-are-your-guilty-displeasures,229.
-Computer Says No,https://koenvangilst.nl/lab/computer-says-no,230.
-Notes on Project Oberon,https://sidhion.com/blog/oberon_notes/,231.
-"AI companies aim 'not to help workers, but to replace them'",https://www.vaticannews.va/en/world/news/2026-03/ai-threats-religion-william-jones-future-humanity.html,232.
-DOS Memory Management,https://www.os2museum.com/wp/dos-memory-management/,233.
-Why Objective-C,https://inessential.com/2026/02/27/why-objective-c.html,234.
-Arm's Cortex X925: Reaching Desktop Performance,https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop,235.
-Cloudflare rewrites Next.js as AI rewrites commercial open source,https://newsletter.pragmaticengineer.com/p/the-pulse-cloudflare-rewrites-nextjs,236.
-How to talk to anyone and why you should,https://www.theguardian.com/lifeandstyle/2026/feb/24/stranger-secret-how-to-talk-to-anyone-why-you-should,237.
-"Show HN: Timber – Ollama for classical ML models, 336x faster than Python",https://github.com/kossisoroyce/timber,238.
-Sam Altman asks if government can nationalize artificial general intelligence,https://thenewstack.io/openai-defense-department-debate/,239.
-The Space Race's Forgotten Theme Park,https://daily.jstor.org/the-space-races-forgotten-theme-park/,240.
-Textadept,https://orbitalquark.github.io/textadept/,241.
-The Pentagon Officially Notifies Anthropic That It Is a 'Supply Chain Risk',https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html,242.
-Tech titans vow to 'take back' California,https://nypost.com/2026/03/05/us-news/tech-titans-vow-to-take-back-california-from-lefties-call-out-billionaires-fleeing/,243.
-Greg Knauss Is Losing Himself,https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html,244.
-Number Research Inc,https://numberresearch.xyz/,245.
-First in-utero stem cell therapy for fetal spina bifida repair is safe: study,https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02,246.
-Show HN: I built a sub-500ms latency voice agent from scratch,https://www.ntik.me/posts/voice-agent,247.
-Nuclear War: An LLM Scenario,https://chrisclapham.com/blog/nuclear-war-an-llm-scenario,248.
-Intel's make-or-break 18A process node debuts for data center with 288-core Xeon,https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech,249.
-U.S. Capabilities Are Showing Signs of Rot,https://www.theatlantic.com/ideas/2026/03/military-failures-trump-iran/686244/,250.
-Mondrian Entered the Public Domain. The Estate Disagrees,https://copyrightlately.com/mondrian-public-domain-controversy/,251.
-Apple Studio Display and Studio Display XDR,https://www.apple.com/newsroom/2026/03/apple-unveils-new-studio-display-and-all-new-studio-display-xdr/,252.
-"Show HN: Omni – Open-source workplace search and chat, built on Postgres",https://github.com/getomnico/omni,253.
-Seed of Might color correction process (2023) [pdf],https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf,254.
-C64: Putting Sprite Multiplexing to Work,https://bumbershootsoft.wordpress.com/2026/02/28/c64-putting-sprite-multiplexing-to-work/,255.
-Programmable Cryptography (2024),https://0xparc.org/writings/programmable-cryptography-1,256.
-Blogosphere – a directory of independent blogs and personal websites,https://blogosphere.app/,257.
-Completing the formal proof of higher-dimensional sphere packing,https://www.math.inc/sphere-packing,258.
-Microplastics and nanoplastics in urban air originate mainly from tire abrasion,https://phys.org/news/2026-03-microplastics-nanoplastics-urban-air-abrasion.html,259.
-The Cathode Ray Tube site,https://www.crtsite.com/didactic-crt.html,260.
-Privacy-preserving age and identity verification via anonymous credentials,https://blog.cryptographyengineering.com/2026/03/02/anonymous-credentials-an-illustrated-primer/,261.
-"New iPad Air, powered by M4",https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/,262.
-The largest acidic geyser has been putting on quite a show,https://www.usgs.gov/observatories/yvo/news/echinus-geyser-back-action-now,263.
-Does that use a lot of energy?,https://hannahritchie.github.io/energy-use-comparisons/,264.
-Bet on German Train Delays,https://bahn.bet,265.
-Why does C have the best file API,https://maurycyz.com/misc/c_files/,266.
-"If AI writes code, should the session be part of the commit?",https://github.com/mandel-macaque/memento,267.
-Don't become an engineering manager,https://newsletter.manager.dev/p/dont-become-an-engineering-manager,268.
-How to record and retrieve anything you've ever had to look up twice,https://ellanew.com/2026/03/02/ptpl-197-record-retrieve-from-a-personal-knowledgebase,269.
-We do not think Anthropic should be designated as a supply chain risk,https://twitter.com/OpenAI/status/2027846016423321831,270.
-Simple screw counter,https://mitxela.com/projects/screwcounter,271.
-Once Upon a Boot - visual tracing of boot process,https://once-upon-a-boot.github.io/,272.
-Guido van Rossum Interviews Thomas Wouters (Python Core Dev),https://gvanrossum.github.io/interviews/Thomas.html,273.
-An Interactive Intro to CRDTs (2023),https://jakelazaroff.com/words/an-interactive-intro-to-crdts/,274.
-Iranian Warship Did Not Carry Ammunition per Protocol of the Milan Exercises,https://old.reddit.com/r/UnderReportedNews/comments/1rlmsom/the_downed_iranian_warship_did_not_carry_any/,275.
-Snapdragon ARM laptop overtakes Intel's flagship Panther Lake in benchmarks,https://www.pcguide.com/news/snapdragon-powered-arm-laptop-overtakes-intels-flagship-panther-lake-chip-in-early-benchmarks/,276.
-Buckle Up for Bumpier Skies,https://www.newyorker.com/magazine/2026/03/09/buckle-up-for-bumpier-skies,277.
-Factory Logic,https://asteriskmag.com/issues/13/factory-logic,278.
-"The 1,700-year-old megastructure history almost forgot",https://www.cnn.com/2026/02/28/travel/travel-news-jetavanaramaya-ephesus,279.
-"Foreign National Gets 20 Yrs for Trafficing Nuclear, Narcotics, and Firearms",https://www.justice.gov/opa/pr/foreign-national-sentenced-20-years-prison-conspiring-traffic-nuclear-materials-narcotics,280.
-"Whoops, Websites Realize That Killing Their Comment Sections Was a Mistake",https://www.techdirt.com/2026/02/03/whoops-websites-realize-that-killing-their-comment-sections-was-a-mistake/,281.
-Speculative Speculative Decoding (SSD),https://arxiv.org/abs/2603.03251,282.
-Ape Coding [fiction],https://rsaksida.com/blog/ape-coding/,283.
-Ghostty – Terminal Emulator,https://ghostty.org/docs,284.
-Emacs Bedrock,https://codeberg.org/ashton314/emacs-bedrock,285.
-Devenv 2.0: A Fresh Interface to Nix,https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/,286.
-The largest emergency stockpile of crude oil is quickly falling apart,https://www.spglobal.com/energy/en/news-research/blog/crude-oil/061516-a-rare-tour-of-the-strategic-petroleum-reserve,287.
-iPhone 17e,https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/,288.
-Computer-generated dream world: Virtual reality for a 286 processor,https://deadlime.hu/en/2026/02/22/computer-generated-dream-world/,289.
-Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf],https://www.ti.com/lit/an/slyt468/slyt468.pdf,290.
-The trackball that merges pointing and 3D control,https://rotatrix.com,291.
-Man Cereal,https://joshcollinsworth.com/blog/man-cereal,292.
-Points on a ring: An interactive walkthrough of a popular math problem,https://growingswe.com/blog/points-on-ring,293.
-"""That Shape Had None"" – A Horror of Substrate Independence (Short Fiction)",https://starlightconvenience.net/#that-shape-had-none,294.
-Giving LLMs a personality is just good engineering,https://www.seangoedecke.com/giving-llms-a-personality/,295.
-"AMD Am386 released March 2, 1991",https://dfarq.homeip.net/amd-am386-released-march-2-1991/,296.
-Most-read tech publications have lost over half their Google traffic since 2024,https://growtika.com/blog/tech-media-collapse,297.
-130k Lines of Formal Topology: Simple and Cheap Autoformalization for Everyone?,https://arxiv.org/abs/2601.03298,298.
-Agentic Engineering Anti Patterns,https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/,299.
-Show HN: Docker pulls more than it needs to - and how we can fix it,https://dockerpull.com,300.
-Show HN: RISCY-V02: A 16-bit 2-cycle RISC-V-ish CPU in the 6502 footprint,https://github.com/mysterymath/riscyv02-sky,301.
-Packaging a Gleam app into a single executable (2025),https://www.dhzdhd.dev/blog/gleam-executable,302.
-"Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",https://maderix.substack.com/p/inside-the-m4-apple-neural-engine,303.
-LFortran compiles fpm,https://lfortran.org/blog/2026/02/lfortran-compiles-fpm/,304.
-India's top court angry after junior judge cites fake AI-generated orders,https://www.bbc.com/news/articles/c178zzw780xo,305.
-The coming war on general-purpose computation (2011),https://lwn.net/Articles/473794/,306.
-"FCC Chair to Europe: If You Restrict US Satellite Providers, We'll Ban You Here",https://www.pcmag.com/news/fcc-chair-to-europe-restrict-us-satellite-providers-well-ban-you-in-us,307.
-Against Query Based Compilers,https://matklad.github.io/2026/02/25/against-query-based-compilers.html,308.
-10-202: Introduction to Modern AI (CMU),https://modernaicourse.org,309.
-Simplifying Application Architecture with Modular Design and MIM,https://codingfox.net.pl/posts/mim/,310.
-Did Alibaba just kneecap its powerful Qwen AI team?,https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in,311.
-Don't use passkeys for encrypting user data,https://blog.timcappalli.me/p/passkeys-prf-warning/,312.
-You don't have to,https://www.scottsmitelli.com/articles/you-dont-have-to/,313.
-AI-generated art can’t be copyrighted after Supreme Court declines review,https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright,314.
-I built a demo of what AI chat will look like when it's “free” and ad-supported,https://99helpers.com/tools/ad-supported-chat,315.
-OpenAI agrees with Dept. of War to deploy models in their classified network,https://twitter.com/sama/status/2027578652477821175,316.
-The Great Online Game (2021),https://www.notboring.co/p/the-great-online-game,317.
-OpenWrt 25.12.0 – Stable Release,https://openwrt.org/releases/25.12/notes-25.12.0,318.
-Modular: Structured Mojo Kernels,https://www.modular.com/blog/structured-mojo-kernels-part-1-peak-performance-half-the-code,319.
-Possible US Government iPhone-Hacking Toolkit in foreign spy and criminal hands,https://www.wired.com/story/coruna-iphone-hacking-toolkit-us-government/,320.
-"'Our consciousness is under siege': On chatbots, social media and mental freedom",https://www.theguardian.com/wellness/2026/mar/05/michael-pollan-book-a-world-appears-consciousness-hygiene,321.
-Major airline bans 'barebeaters' across all 24 daily flights from UK airports,https://metro.co.uk/2026/03/04/major-airline-bans-barebeaters-across-24-daily-flights-uk-airports-27221151/,322.
-Physicists developing a quantum computer that’s entirely open source,https://physics.aps.org/articles/v19/24,323.
-Zclaw – The 888 KiB Assistant,https://zclaw.dev,324.
-Process-Based Concurrency: Why Beam and OTP Keep Being Right,https://variantsystems.io/blog/beam-otp-process-concurrency,325.
-Emacs internals: Deconstructing Lisp_Object in C (Part 2),https://thecloudlet.github.io/blog/project/emacs-02/,326.
-'ATM jackpotting' leads FBI to issue warning. Here's what to know,https://www.usatoday.com/story/money/2026/02/27/atm-jackpotting-fbi-warning/88896796007/,327.
-The United States and Israel have launched a major attack on Iran,https://www.cnn.com/2026/02/28/middleeast/israel-attack-iran-intl-hnk,328.
-"US asked Ukraine for help fighting Iranian drones, Zelensky says",https://www.bbc.com/news/articles/cr5llg0e9g9o,329.
-Everett shuts down Flock camera network after judge rules footage public record,https://www.wltx.com/article/news/nation-world/281-53d8693e-77a4-42ad-86e4-3426a30d25ae,330.
-GrapheneOS: Microsoft Authenticator does not support secure Android OS,https://www.heise.de/en/news/GrapheneOS-Microsoft-Authenticator-does-not-support-secure-Android-OS-11200495.html,331.
-Extending single-minus amplitudes to gravitons,https://openai.com/index/extending-single-minus-amplitudes-to-gravitons/,332.
-Lenovo’s new ThinkPads score 10/10 for repairability,https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability,333.
-Intent-Based Commits,https://github.com/adamveld12/ghost,334.
-Jolla phone – a full-stack European alternative,https://commerce.jolla.com/products/jolla-phone-sept-26,335.
-Trojan Source: Invisible Vulnerabilities,https://arxiv.org/abs/2111.00169,336.
-Decision trees – the unreasonable power of nested decision rules,https://mlu-explain.github.io/decision-tree/,337.
-United Airlines can permanently ban passengers who don't wear headphones,https://www.theverge.com/transportation/890202/united-airlines-headphones-policy-contract-of-carriage,338.
-Show HN: Effective Git,https://github.com/nolasoft/okgit,339.
-Neocaml – Rubocop Creator's New OCaml Mode for Emacs,https://github.com/bbatsov/neocaml,340.
-Open Source Iran War Cost Tracker: 45.7B,https://iranwarcost.com,341.
-LLM Prose Tells,https://git.eeqj.de/sneak/prompts/src/branch/main/prompts/LLM_PROSE_TELLS.md,342.
-Welcome (back) to Macintosh,https://take.surf/2026/03/01/welcome-back-to-macintosh,343.
-Mount Mayhem at Netflix: Scaling Containers on Modern CPUs,https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac,344.
-Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool,https://github.com/vustagc/pianoterm,345.
-Unsloth Dynamic 2.0 GGUFs,https://unsloth.ai/docs/basics/unsloth-dynamic-2.0-ggufs,346.
-Iran says targeted AWS Data Centers for support of U.S. military,https://www.cnbc.com/2026/03/04/amazon-bahrain-data-centers-targeted-iran-drone-strike.html,347.
-We automated everything except knowing what's going on,https://eversole.dev/blog/we-automated-everything/,348.
-Sea level much higher than assumed in most coastal hazard assessments,https://www.nature.com/articles/s41586-026-10196-1,349.
-Excommunicated devs making games with AI,https://www.tyleo.com/blog/the-excommunicated-devs-making-games-with-ai,350.
-Judge finalizes order for Greenpeace to pay $345M in ND oil pipeline case,https://northdakotamonitor.com/2026/02/27/judge-finalizes-order-for-greenpeace-to-pay-345-million-in-north-dakota-oil-pipeline-case/,351.
-Anthropic chief back in talks with Pentagon about AI deal,https://www.ft.com/content/97bda2ef-fc06-40b3-a867-f61a711b148b,352.
-Moldova broke our data pipeline,https://www.avraam.dev/blog/moldova-broke-our-pipeline,353.
-SCOTUS declines to hear dispute over copyrights for AI-generated material,https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/,354.
-Next-gen spacecraft are overwhelming communication networks,https://atempleton.bearblog.dev/how-next-gen-spacecraft-are-overwhelming-our-communication-networks/,355.
-An ode to houseplant programming (2025),https://hannahilea.com/blog/houseplant-programming/,356.
-"Au Revoir, Eleventy",https://hamatti.org/posts/au-revoir-eleventy/,357.
-Show HN: Govbase – Follow a bill from source text to news bias to social posts,https://govbase.com,358.
-LLMs can unmask pseudonymous users at scale with surprising accuracy,https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/,359.
-SRGB↔XYZ Conversion (2021),https://mina86.com/2019/srgb-xyz-conversion/,360.
-White House Uses Call of Duty Footage in Showcase of Destruction in Iran War,https://www.gamespot.com/articles/white-house-uses-call-of-duty-footage-in-showcase-of-destruction-in-iran-war/1100-6538580/,361.
-Ask HN: Who is hiring? (March 2026),item?id=47219668,362.
-The 185-Microsecond Type Hint,https://blog.sturdystatistics.com/posts/type_hint/,363.
-Age Verification: Protection Tool or Surveillance in Disguise?,https://itsfoss.com/news/our-take-on-age-verification/,364.
-Anthropic Cowork feature creates 10GB VM bundle on macOS without warning,https://github.com/anthropics/claude-code/issues/22543,365.
-19th century silent film that first captured a robot attack,https://www.npr.org/2026/02/28/nx-s1-5730373/georges-melies-robot-film-1897-library-of-congress-gugusse-automate,366.
-Robust and efficient quantum-safe HTTPS,https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html,367.
-Language Model Contains Personality Subnetworks,https://arxiv.org/abs/2602.07164,368.
-Little Free Library,https://littlefreelibrary.org/,369.
-A Temporal Dark Patterns Audit of McDonald's Self-Ordering Kiosk Flow,https://arxiv.org/abs/2603.03218,370.
-Verified Spec-Driven Development (VSDD),https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00,371.
-Build your own Command Line with ANSI escape codes (2016),https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html,372.
-Obsidian Sync now has a headless client,https://help.obsidian.md/sync/headless,373.
-Mullvad VPN: Banned TV Ad in the Streets of London [video],https://www.youtube.com/watch?v=rwhznrpgl7k,374.
-OpenAI Symphony,https://github.com/openai/symphony,375.
-Congress Is Considering Abolishing Your Right to Be Anonymous Online,https://theintercept.com/2026/03/05/kosa-online-age-verification-free-speech-privacy/,376.
-What’s in a name? (2014),https://sailsandcommas.com/2014/02/03/whats-in-a-name/,377.
-We gave terabytes of CI logs to an LLM,https://www.mendral.com/blog/llms-are-good-at-sql,378.
-FBI Nabs Contractor for Allegedly Stealing Crypto from Marshals,https://www.bloomberg.com/news/articles/2026-03-05/fbi-arrests-contractor-in-alleged-crypto-theft-held-by-marshals,379.
-Show HN: uBlock filter list to blur all Instagram Reels,https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886,380.
-WebMCP is available for early preview,https://developer.chrome.com/blog/webmcp-epp,381.
-Rust zero-cost abstractions vs. SIMD,https://turbopuffer.com/blog/zero-cost,382.
-We Will Not Be Divided,https://notdivided.org,383.
-Two kinds of error,https://evanhahn.com/the-two-kinds-of-error/,384.
-"Iran war wreaking havoc on shipping and air cargo, could create global delays",https://www.theregister.com/2026/03/02/iran_war_tech_supply_chain/,385.
-747s and coding agents,https://carlkolon.com/2026/02/27/engineering-747-coding-agents/,386.
-Plugtest,https://en.wikipedia.org/wiki/Plugtest,387.
-Show HN: Paste a URL and watch multiple AI models redesign it side-by-side,https://shuffle.dev/ai-website-redesign,388.
-Show HN: Web Audio Studio – A Visual Debugger for Web Audio API Graphs,https://webaudio.studio/,389.
-Remote Firmware Injection in Popular Solar Inverters,https://jakkaru.de/articles/apsystems-remote-firmware-injection,390.
-Why a Robotics Startup's Failure Proves the Robot Starts with the Actuator,https://www.firgelli.com/blogs/news/k-scale-labs-failure-proves-robot-starts-with-actuator,391.
-Enable CORS for Your Blog,https://www.blogsareback.com/guides/enable-cors,392.
-Large-Scale Agentic RL for CUDA Kernel Generation,https://cuda-agent.github.io/,393.
-Elevated Errors in Claude.ai,https://status.claude.com/incidents/yf48hzysrvl5,394.
-Amazon Appears to Be Down,https://arstechnica.com/gadgets/2026/03/amazon-appears-to-be-down-with-over-20000-reported-problems/,395.
-Show HN: I put HN discussions next to the article where it belongs,https://cool-link-web-production.up.railway.app/l/blogabout,396.
-A Chinese official’s use of ChatGPT revealed an intimidation operation,https://www.cnn.com/2026/02/25/politics/chatgpt-china-intimidation-operation,397.
-The Future of AI,https://lucijagregov.com/2026/02/26/the-future-of-ai/,398.
-"Sam Altman Wants Elected Officials, Not OpenAI, to Decide How Military Uses AI",https://www.wsj.com/tech/ai/sam-altman-wants-elected-officials-not-openai-to-decide-how-military-uses-ai-458910cd,399.
-The whole thing was a scam,https://garymarcus.substack.com/p/the-whole-thing-was-scam,400.
-The ping-verse: a deep dive into 14 ping-type utilities across OSI layers,https://netbeez.net/blog/a-guide-to-every-ping-utility/,401.
-ChatGPT 5.4 Pro: A simple 'Hi' cost me $80,https://xcancel.com/Yuchenj_UW/status/2029645361548251271?s=20,402.
-"Show HN: Qlog – grep for logs, but 100x faster",https://github.com/Cosm00/qlog,403.
-Bootc and OSTree: Modernizing Linux System Deployment,https://a-cup-of.coffee/blog/ostree-bootc/,404.
-Notes on Lagrange Interpolating Polynomials,https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polynomials/,405.
-Croatia declared free of landmines after 31 years,https://glashrvatske.hrt.hr/en/domestic/croatia-declared-free-of-landmines-after-31-years-12593533,406.
-Microsoft Is Stress-Testing the Agentic AI Bubble in Its Own Gaming Division,https://softcurrency.substack.com/p/microsoft-is-stress-testing-the-agentic,407.
-Show HN: Open-Source Article 12 Logging Infrastructure for the EU AI Act,item?id=47230438,408.
-"Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant",https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/,409.
-Palantir's Double Conflict of Interest in the War Against Iran,https://bylinetimes.com/2026/03/05/palantirs-double-conflict-of-interest-in-the-war-against-iran/,410.
-Claude becomes number one app on the U.S. App Store,https://apps.apple.com/us/iphone/charts,411.
-Show HN: A GFM+GF-MathJax/Latex HTML formatting adventure,https://github.com/scottvr/phart/blob/main/docs/GHM-LATEX.md,412.
-An Interesting Find: STM32 RDP1 Decryptor,https://carlossless.io/stm32-rdp1-decryptor/,413.
-The Case for Apolitical Tech Spaces,https://minor.gripe/posts/2026-03-02-the_case_for_apolitical_tech_spaces/,414.
-Rising carbon dioxide levels now detected in human blood,https://phys.org/news/2026-02-carbon-dioxide-human-blood.html,415.
-Qt45: A small polymerase ribozyme that can synthesize itself,https://www.science.org/doi/10.1126/science.adt2760,416.
-A case for Go as the best language for AI agents,https://getbruin.com/blog/go-is-the-best-language-for-agents/,417.
-Our Agreement with the Department of War,https://openai.com/index/our-agreement-with-the-department-of-war,418.
-A plastic made from milk that vanishes in 13 weeks,https://www.sciencedaily.com/releases/2026/02/260227071922.htm,419.
-1.5 Million Users Leave ChatGPT,https://www.forbes.com/sites/barrycollins/2026/03/02/leaving-chatgpt-make-sure-to-do-this-before-you-cancel/,420.
-Court finds Fourth Amendment doesn’t support broad search of protesters’ devices,https://www.eff.org/deeplinks/2026/02/victory-tenth-circuit-finds-fourth-amendment-doesnt-support-broad-search-0,421.
-The Windows 95 user interface: A case study in usability engineering (1996),https://dl.acm.org/doi/fullHtml/10.1145/238386.238611,422.
-Flightradar24 for Ships,https://atlas.flexport.com/,423.
-DOJ proposes policy aimed at limiting state bar ethics probes into its attorneys,https://abcnews.com/US/doj-proposes-policy-aimed-limiting-state-bar-ethics/story?id=130755238,424.
-Switch to Claude without starting over,https://claude.com/import-memory,425.
-Rust is just a tool,https://lewiscampbell.tech/blog/260204.html,426.
-Why is the first C++ (m)allocation always 72 KB?,https://joelsiks.com/posts/cpp-emergency-pool-72kb-allocation/,427.
-Chaos and Dystopian news for the dead internet survivors,https://www.fubardaily.com,428.
-Iranian strikes on Amazon data centers highlight industry's vulnerability,https://apnews.com/article/amazon-aws-data-center-uae-iran-bahrain-71066b0a822c4cfd88b61e3fe79af917,429.
-Allocating on the Stack,https://go.dev/blog/allocation-optimizations,430.
-Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester,https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/,431.
-Six Things I Learned Watching a Robotics Startup Die from the Inside,https://ruixu.us/posts/six-things-robotics-startup,432.
-New iron nanomaterial wipes out cancer cells without harming healthy tissue,https://www.sciencedaily.com/releases/2026/02/260228093456.htm,433.
-Drizzle Joins PlanetScale,https://planetscale.com/blog/drizzle-joins-planetscale,434.
-"Time, Space, and Life as We Know It (2017)",https://raganwald.com/2017/01/12/time-space-life-as-we-know-it.html,435.
-Statement on the comments from Secretary of War Pete Hegseth,https://www.anthropic.com/news/statement-comments-secretary-war,436.
-"Iran's Ayatollah Ali Khamenei is killed in Israeli strike, ending 36-year rule",https://www.npr.org/2026/02/28/1123499337/iran-israel-ayatollah-ali-khamenei-killed,437.
-Ask HN: Has anyone noticed the fear-driven prompt suggestions that GPT5.3 makes?,item?id=47256208,438.
-Invite people over to your home regularly,https://blog.mattglassman.net/you-should-invite-people-over-to-your-home-regularly/,439.
-"The Iran War's Most Precious Commodity Isn't Oil, It's Desalinated Water",https://www.bloomberg.com/opinion/articles/2026-03-04/iran-war-the-most-precious-commodity-is-water-not-oil,440.
-The Shady World of IP Leasing,https://acid.vegas/blog/the-shady-world-of-ip-leasing/,441.
-Qwen3.5 122B and 35B models offer Sonnet 4.5 performance on local computers,https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance,442.
-Don't make me talk to your chatbot,https://raymyers.org/post/dont-make-me-talk-to-your-chatbot/,443.
-Let's discuss sandbox isolation,https://www.shayon.dev/post/2026/52/lets-discuss-sandbox-isolation/,444.
-"48x32, a 1536 LED Game Computer",https://jacquesmattheij.com/48x32-introduction/,445.
-BYD rolls out EV batteries with 5-minute 'flash charging.' But there's a catch,https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/,446.
-Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model,https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/,447.
-Free IP Geolocation Database,https://ip66.dev/,448.
-U.S. science agency moves to restrict foreign scientists from its labs,https://www.science.org/content/article/nist-moves-restrict-foreign-scientists-its-labs,449.
-Writing a Guide to SDF Fonts,https://www.redblobgames.com/blog/2026-02-26-writing-a-guide-to-sdf-fonts/,450.
-When does MCP make sense vs CLI?,https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html,451.
-Closure of the Weatheradio service in Canada,https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/,452.
-Tove Jansson's criticized illustrations of The Hobbit (2023),https://tovejansson.com/hobbit-tolkien/,453.
-A pretty looking web for a quantum mechanics tool,https://github.com/Jamessfks/mace,454.
-Dyson Spheres on the Hertzsprung-Russell diagram,https://arxiv.org/abs/2602.23270,455.
-Prediction markets on Deutsche Bahn departure delays,https://bahn.bet,456.
-"""Clothing-as-a-Service"" startup charged with $300M fraud (2025)",https://www.cnbc.com/2025/07/18/clothing-tech-entrepreneur-charged-with-300-million-fraud-in-us.html,457.
-Show HN: Open-sourced a web client that lets any device use Apple's on-device AI,https://github.com/Techopolis/perspective-intelligence-web-community,458.
-How to Kill the Code Review,https://www.latent.space/p/reviews-dead,459.
-Cash issuing terminals,https://computer.rip/2026-02-27-ibm-atm.html,460.
-Show HN: Demucs music stem separator rewritten in Rust – runs in the browser,https://github.com/nikhilunni/demucs-rs,461.
-Father claims Google's AI product fuelled son's delusional spiral,https://www.bbc.com/news/articles/czx44p99457o,462.
-Mexican government partially unblocks secure internet,https://globalvoices.org/2026/03/03/mexican-government-partially-unblocks-secure-internet/,463.
-Israel Spent Years Hacking Tehran Traffic Cameras to Track Khamenei,https://thedefensepost.com/2026/03/04/israel-traffic-cameras-track-khamenei/,464.
-Trump Bought Netflix Debt Amid Paramount's Fight for Warner Bros,https://www.hollywoodreporter.com/business/business-news/trump-bought-netflix-bonds-amid-paramount-warners-fight-1236521512/,465.
-Blue Brain Nexus – A knowledge graph for data-driven science,https://github.com/BlueBrain/nexus,466.
-"Workers at top US low-wage firms rely on public assistance, report says",https://www.theguardian.com/business/2026/mar/04/workers-medicaid-snap-low-pay,467.
-Exploiting Iran: A Political Timeline,https://github.com/thinkhuman/iranwest/blob/main/exploitingiran.md,468.
-Moving to Sweden as an American,https://departure.blog/moving-to-sweden-as-an-american/,469.
-Rydberg atoms detect clear signals from a handheld radio,https://phys.org/news/2026-02-rydberg-atoms-handheld-radio.html,470.
-'Anthropic CEO says US govt hostility linked to Trump donations [Leaked memo],https://www.wionews.com/world/-no-dictator-style-praise-anthropic-ceo-says-us-govt-hostility-linked-to-trump-donations-slams-openai-s-altman-in-internal-memo-report-1772698855018,471.
-"Felix ""fx"" Lindner has died",https://blog.recurity-labs.com/2026-03-02/Farewell_Felix,472.
-Show HN: Your AI Slop Bores Me,https://www.youraislopbores.me/,473.
-Aura-State: Formally Verified LLM State Machine Compiler,item?id=47209315,474.
-BYD's Second-Generation Blade Battery Makes Western EV Tech Look Ancient,https://insideevs.com/news/789094/byd-second-generation-blade-battery/,475.
-The inner workings of TCP zero-copy,https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html,476.
-Show HN: Now I Get It – Translate scientific papers into interactive webpages,https://nowigetit.us,477.
-MCP server that reduces Claude Code context consumption by 98%,https://mksg.lu/blog/context-mode,478.
-The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits,https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse,479.
-"Show HN: Agent Action Protocol (AAP) – MCP got us started, but is insufficient",https://github.com/agentactionprotocol/aap/,480.
-What if it's World War III?,https://colinbeavan.substack.com/p/what-if-its-world-war-iii,481.
-Hormuz Is the Hidden Risk to the AI Economy,https://www.bloomberg.com/opinion/articles/2026-03-05/iran-war-hormuz-is-the-hidden-risk-to-the-ai-economy,482.
-Rust: The Unlikely Engine of the Vibe Coding Era,https://www.forbes.com/councils/forbestechcouncil/2026/03/03/rust-the-unlikely-engine-of-the-vibe-coding-era/,483.
-Why XML tags are so fundamental to Claude,https://glthr.com/XML-fundamental-to-Claude,484.
-Show HN: Visual Lambda Calculus – a thesis project (2008) revived for the web,https://github.com/bntre/visual-lambda,485.
-TV's TV (1987) & TV Games Encyclopedia (1988),https://blog.gingerbeardman.com/2026/03/01/tvs-tv-1987-and-tv-games-encyclopedia-1988/,486.
-Block the “Upgrade to Tahoe” alerts,https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/,487.
-Mexico Mandates Biometric SIM Registration for All Phone Numbers,https://reclaimthenet.org/mexico-mandates-biometric-sim-registration-for-all-phone-numbers,488.
-How did MS-DOS decide on two seconds to keep the floppy disk cache valid?,https://devblogs.microsoft.com/oldnewthing/20190924-00/?p=102915,489.
-RAG vs. Skill vs. MCP vs. RLM,https://blog.alexewerlof.com/p/rag-vs-skill-vs-mcp-vs-rlm,490.
-Talos: Hardware accelerator for deep convolutional neural networks,https://talos.wtf/,491.
-"Boss-CSS: I created another ""CSS-in-JS"" lib",https://dev.to/wintercounter/boss-css-i-created-another-css-in-js-lib-and-here-is-why-23kc,492.
-A Knock on the Window and a Glimpse of America's Surveillance Future,https://www.motherjones.com/politics/2026/03/mobile-fortify-face-scan-dhs-kristi-noem-database-technology/,493.
-Addressing Antigravity Bans and Reinstating Access,https://github.com/google-gemini/gemini-cli/discussions/20632,494.
-Why mathematicians hate Good Will Hunting,https://www.scientificamerican.com/article/why-mathematicians-hate-good-will-hunting/,495.
-Pentagon Says It's Told Anthropic the Firm Is Supply-Chain Risk,https://www.bloomberg.com/news/articles/2026-03-05/pentagon-says-it-s-told-anthropic-the-firm-is-supply-chain-risk,496.
-Tim Sweeney signed away his right to criticize Google until 2032,https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032,497.
-"NASA announces overhaul of Artemis program amid safety concerns, delays",https://www.cbsnews.com/news/nasa-artemis-moon-program-overhaul/,498.
-Trump fires Kristi Noem as DHS secretary,https://www.wsj.com/politics/policy/trump-dhs-kristi-noem-markwayne-mullin-85815862,499.
-Building a Minimal Transformer for 10-digit Addition,https://alexlitzenberger.com/blog/post.html?post=/building_a_minimal_transformer_for_10_digit_addition,500.
-"Show HN: Claude-File-Recovery, recover files from your ~/.claude sessions",https://github.com/hjtenklooster/claude-file-recovery,501.
-Show HN: We want to displace Notion with collaborative Markdown files,https://www.moment.dev/,502.
-The Predatory Hegemon,https://www.foreignaffairs.com/united-states/predatory-hegemon-walt,503.
-AI is making junior devs useless,https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/,504.
-"Oracle plans job cuts as data center costs rise, Bloomberg News reports",https://www.reuters.com/business/oracle-plans-thousands-job-cuts-data-center-costs-rise-bloomberg-news-reports-2026-03-05/,505.
-"Libxml2 Enterprise Edition (AGPL, from the previous maintainer)",https://codeberg.org/nwellnhof/libxml2-ee,506.
-Claude dethrones ChatGPT as top U.S. app after Pentagon saga,https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon,507.
-GitHub Copilot CLI downloads and executes malware,https://www.promptarmor.com/resources/github-copilot-cli-downloads-and-executes-malware,508.
-This job has become the ultimate case study why AI won't replace human workers,https://www.cnn.com/2026/02/09/tech/ai-replacing-jobs-concerns-radiology,509.
-Circle Games (2019),https://srconstantin.wordpress.com/2019/06/06/circle-games/,510.
-Earthquake-Proof Foundations,https://practical.engineering/blog/2026/3/3/earthquake-proof-foundations,511.
-Microsoft Creative Writer (1993),https://classicreload.com/play/win3x-creative-writer.html,512.
-"Vercel down in Dubai, EU affected also",https://www.vercel-status.com,513.
-Border-Image Tool,https://jacobfilipp.com/borderimage/,514.
-What keeps IoT devices running for a decade,https://mooracle.io/blog/building-iiot-that-lasts/,515.
-"Research shows 41 US states are getting warmer, all in slightly different ways",https://phys.org/news/2026-02-states-warmer-slightly-ways.html,516.
-Tim Sweeney signed away his right to criticize Google until 2032,https://www.theverge.com/news/889595/tim-sweeney-signed-away-his-right-to-criticize-google-until-2032,517.
-'What is the game plan?': The Iran war is unsettling China and its ambitions,https://www.bbc.com/news/articles/c2044vzrdpzo,518.
-Apple Does Fusion,https://om.co/2026/03/03/apple-does-fusion/,519.
-AI Isn't Replacing SREs. It's Deskilling Them,https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling,520.
-Pass-Through of Tariffs: Evidence from European Wine Imports,https://www.nber.org/202603/digest/pass-through-tariffs-evidence-european-wine-imports,521.
-"/e/OS is a complete, fully “deGoogled” mobile ecosystem",https://e.foundation/e-os/,522.
-Show HN: Audio Toolkit for Agents,https://github.com/shiehn/sas-audio-processor,523.
-Decoding GPU Efficiency: The FLOPs Fallacy,https://clockwork.io/blog/decoding-gpu-efficiency-part-1-the-flops-fallacy/,524.
-"GLP-1 drugs protect against new or worsening addictions, large study shows",https://www.reuters.com/business/healthcare-pharmaceuticals/glp-1-drugs-protect-against-new-or-worsening-addictions-large-study-shows-2026-03-04/,525.
-In 1985 Maxell built a bunch of life-size robots for its bad floppy ad,https://buttondown.com/suchbadtechads/archive/maxell-life-size-robots/,526.
-Lil' Fun Langs' Guts,https://taylor.town/scrapscript-001,527.
-Apple Does Not Include a Charger with All New MacBooks in UK and EU,https://www.macrumors.com/2026/03/04/macbook-neo-no-charger-in-uk-or-eu/,528.
-The exploitation paradox in open source,https://lwn.net/SubscriberLink/1058031/a1b77f8039faed6c/,529.
-"Intercepting messages inside Is­Dialog­Message, installing the message filter",https://devblogs.microsoft.com/oldnewthing/20260226-00/?p=112090,530.
-Trump fires Homeland Security Secretary Noem after criticism,https://apnews.com/article/trump-homeland-security-noem-mullin-38c583b3cef97b4ef60d84b8f8b5961a,531.
-Nike Is Moving Jobs to Low-Wage Regions of Indonesia,https://www.propublica.org/article/nike-jobs-indonesia-living-wages,532.
-OpenAI fires an employee for prediction market insider trading,https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/,533.
-Kristi Noem Misled Congress About Top Aide's Role in DHS Contracts,https://www.propublica.org/article/kristi-noem-dhs-misled-senate-judiciary-corey-lewandowski-contracts,534.
-53% of U.S. adults say Americans have bad morals and ethics,https://www.pewresearch.org/religion/2026/03/05/in-25-country-survey-americans-especially-likely-to-view-fellow-citizens-as-morally-bad/,535.
-Open source calculator firmware DB48X forbids CA/CO use due to age verification,https://github.com/c3d/db48x/commit/7819972b641ac808d46c54d3f5d1df70d706d286,536.
-Claude Code escapes its own denylist and sandbox,https://ona.com/stories/how-claude-code-escapes-its-own-denylist-and-sandbox,537.
-NASA now officially has no plans to use new mobile launcher for Artemis,https://phys.org/news/2026-03-nasa-mobile-launcher-artemis.html,538.
-Field notes from the circus of corporate AI adoption,https://mildlyverbose.mataroa.blog/blog/come-one-come-all-to-the-spectacular-corporate-ai-circus/,539.
-China's 450kmph bullet train is the fastest ever built,https://www.executivetraveller.com/news/china-cr450-world-s-fastest-bullet-train,540.
-Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year,https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/,541.
-You can't use a code editor when you're under 18 now?,https://mastodon.online/@marekfort/116164253291515471,542.
-Running Llama Inference on Intel Itanium,https://medium.com/@tglozar/running-llama-inference-on-intel-itanium-part-2-045d663fe5d4,543.
-"Anthropic's AI tool Claude central to U.S. campaign in Iran, amid a bitter feud",https://www.washingtonpost.com/technology/2026/03/04/anthropic-ai-iran-campaign/,544.
-Tracing Discord's Elixir Systems (Without Melting Everything),https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything,545.
-A Grand Vision for Rust,https://blog.yoshuawuyts.com/a-grand-vision-for-rust/,546.
-Bars close and hundreds lose jobs as US firm buys Brewdog in £33M deal,https://www.bbc.com/news/articles/c05v0p1d0peo,547.
-The Science of Detecting LLM-Generated Text (2024),https://dl.acm.org/doi/10.1145/3624725,548.
-Don't Cite Unsold eBay Listing Prices,https://blog.danlew.net/2026/01/17/dont-cite-unsold-ebay-listing-prices/,549.
-Running Neural Amp Modeler on embedded hardware,https://www.tone3000.com/blog/running-nam-on-embedded-hardware,550.
-Show HN: Giggles – A batteries-included React framework for TUIs,https://github.com/zion-off/giggles,551.
-Haptics: Tactile Feedback for the Mobile Web,https://haptics.lochie.me/,552.
-OpenAI is developing alternative to Microsoft's GitHub,https://www.reuters.com/business/openai-is-developing-alternative-microsofts-github-information-reports-2026-03-03/,553.
-"Show HN: Glyph, a local-first Markdown notes app for macOS built with Rust",https://glyphformac.com/,554.
-Senate fails to block US involvement in Iran war,https://www.usatoday.com/story/news/politics/2026/03/04/iran-war-powers-resolution-senate-vote/88963809007/,555.
-A Day in the Life of an Enshittificator [video],https://www.youtube.com/watch?v=T4Upf_B9RLQ,556.
-President Trump bans Anthropic from use in government systems,https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban,557.
-"I Fuzzed, and Vibe Fixed, the Vibed C Compiler",https://john.regehr.org/writing/claude_c_compiler.html,558.
-Show HN: Badge that shows how well your codebase fits in an LLM's context window,https://github.com/qwibitai/nanoclaw/tree/main/repo-tokens,559.
-Interactive Fiction Theory and Criticism,https://the-rosebush.com/,560.
-Ask HN: How are you all staying sane?,item?id=47215569,561.
-"Rob Grant, creator of Red Dwarf, has died",https://www.beyondthejoke.co.uk/content/17193/red-dwarf-rob-grant,562.
-Why consumer choice is stripped away and how the tech industry profits from it,https://fireborn.mataroa.blog/blog/because-fuck-you-why-consumer-choice-is-being-stripped-away-and-how-the-tech-industry-profits-from-it/,563.
-Show HN: React-Kino – Cinematic scroll storytelling for React (1KB core),https://github.com/btahir/react-kino,564.
-No Silver Bullet [pdf],https://www.cs.dartmouth.edu/~cs50/Reading/NoSilverBullet.pdf,565.
-A Word to the Wise: Don't Trust A.I. To File Your Taxes,https://www.nytimes.com/2026/03/05/technology/artificial-intelligence-taxes-tax-refund.html,566.
-What canceled my Go context?,https://rednafi.com/go/context-cancellation-cause/,567.
-The Intel 486DX2 CPU,https://dfarq.homeip.net/intel-486dx2-cpu/,568.
-"Running Mainline Linux, U-Boot, and Mesa on Rockchip: A Year in Review",https://www.collabora.com/news-and-blog/blog/2026/03/02/running-mainline-linux-u-boot-and-mesa-on-rockchip-a-year-in-review/,569.
-Don't trust AI agents,https://nanoclaw.dev/blog/nanoclaw-security-model,570.
-"New York could prohibit chatbot medical, legal, engineering advice",https://folding-sky.com/blog/ny-senate-bill-s7263-chatbot-liability,571.
-Why No AI Games?,https://franklantz.substack.com/p/why-no-ai-games,572.
-Show HN: SplatHash – A lightweight alternative to BlurHash and ThumbHash,https://github.com/junevm/splathash,573.
-Labubu sues 3D printer maker Bambu Lab for items made by its users,https://www.tomshardware.com/3d-printing/labubu-sues-3d-printer-maker-bambu-lab-for-items-made-by-its-users-makerworld-design-repository-in-hot-water-over-ip-theft-by-its-users,574.
-How to sew a Hyperbolic Blanket (2021),https://www.geometrygames.org/HyperbolicBlanket/index.html,575.
-"Show HN: Cloudwright – validate, cost, and export cloud architectures from text",https://github.com/xmpuspus/cloudwright,576.
-"California's Digital Age Assurance Act, and FOSS",https://runxiyu.org/comp/ab1043/,577.
-Gulf insurance costs soar 12-fold despite US president's guarantee,https://www.ft.com/content/865dab47-f9b8-4c81-88e6-15894cbda58c,578.
-Anthropic and Alignment (Ben Thompson),https://stratechery.com/2026/anthropic-and-alignment/,579.
-ESA's Mars orbiters watch solar superstorm hit the red planet,https://phys.org/news/2026-03-esa-mars-orbiters-solar-superstorm.html,580.
-Show HN: Gapless.js – gapless web audio playback,https://github.com/RelistenNet/gapless.js,581.
-Tell HN: Digital Ocean has run out of GPU droplets,item?id=47249736,582.
-Show HN: Logira – eBPF runtime auditing for AI agent runs,https://github.com/melonattacker/logira,583.
-Attacker can bypass cryptography and prove mathematically impossible statements,https://osec.io/blog/2026-03-03-zkvms-unfaithful-claims/,584.
-US and allied missile stockpiles 'bare' as Iran war heads into weeks,https://www.news.com.au/world/middle-east/us-and-allied-missile-stockpiles-bare-as-iran-war-heads-into-weeks/news-story/4232a54fb17b00688b8d7d6e4f0e4280,585.
-Leaving Google has actively improved my life,https://pseudosingleton.com/leaving-google-improved-my-life/,586.
-"Ask HN: If your project is free, what are you building and why keep it free?",item?id=47249560,587.
-Show HN: Explain Curl Commands,https://github.com/akgitrepos/explain-my-curl,588.
-GitHub having issues [resolved],https://www.githubstatus.com/incidents/n07yy1bk6kc4,589.
-Otters as Bioindicators of Estuarine Health,https://emt.pensoft.net/article/185117/,590.
-Regulator contacts Meta over workers watching intimate AI glasses videos,https://www.bbc.com/news/articles/c0q33nvj0qpo,591.
-CBP Tapped into the Online Advertising Ecosystem to Track Peoples' Movements,https://lwn.net/Articles/1061085/,592.
-"Show HN: Try Archetype 360 – AI‑powered personality test, 3× deeper than MBTI",https://archetype360.app/,593.
-"2x Qwen 3.5 on M1 Mac: 9B builds a bot, 0.8B runs it",https://advanced-stack.com/fields-notes/qwen35-opencode-lm-studio-agentic-coding-on-m1.html,594.
-OpenClaw surpasses React to become the most-starred software project on GitHub,https://www.star-history.com/blog/openclaw-surpasses-react-most-starred-software,595.
-Gemini encouraged a man to commit suicide to be with his AI wife in theafterlife,https://www.engadget.com/ai/gemini-encouraged-a-man-commit-suicide-to-be-with-his-ai-wife-in-the-afterlife-lawsuit-alleges-153348434.html,596.
-MrBeast Is Getting into Financial Services. Parents Should Pay Attention,https://www.nytimes.com/2026/03/03/business/mrbeast-step-banking-crypto.html,597.
-YC Controls the Frame: Sam Altman's VC Advisors' Protocol Leaked [video],https://www.youtube.com/watch?v=pjO2_UWhlKA,598.
-Lock Scroll with a Vengeance,https://unsung.aresluna.org/lock-scroll-with-a-vengeance/,599.
-The Life Cycle of Money,https://doap.metal.bohyen.space/blog/post/complete-life-cycle-of-money/,600.
-Simplenote is no longer in active development,https://forums.simplenote.com/forums/topic/customer-update-on-simplenote/?view=all,601.
-ChatGPT Health fails to recognise medical emergencies – study,https://www.theguardian.com/technology/2026/feb/26/chatgpt-health-fails-recognise-medical-emergencies,602.
-M5 Pro and M5 Max are surprisingly big departures from older Apple Silicon,https://arstechnica.com/gadgets/2026/03/m5-pro-and-m5-max-are-surprisingly-big-departures-from-older-apple-silicon/,603.
-The Mini PET 40/80 (2022),http://blog.tynemouthsoftware.co.uk/2022/02/the-mini-pet-4080.html,604.
-"Samsung Galaxy update removes Android recovery menu tools, including sideloading",https://9to5google.com/2026/02/27/samsung-galaxy-update-android-recovery-menu-removed/,605.
-My perfect Music app doesn't exist,https://hicks.design/journal/my-perfect-music-app-doesnt-exist,606.
-AI is a tool. Don't try to make it a teammate,https://www.xfive.co/blog/ai-is-a-tool-not-a-teammate,607.
-Show HN: Term-CLI – interactive terminals for AI agents (for SSH/TUI/REPL flows),https://github.com/EliasOenal/term-cli,608.
-"An AI agent coding skeptic tries AI agent coding, in excessive detail",https://minimaxir.com/2026/02/ai-agent-coding/,609.
-An interactive intro to Elliptic Curve Cryptography,https://growingswe.com/blog/elliptic-curve-cryptography,610.
-Palantir and other tech companies are stocking offices with tobacco products,https://fortune.com/2026/03/04/palantir-tech-companies-offices-vending-machines-tobacco-worker-productivity/,611.
-Scientists study comet 3I/ATLAS to understand material from other star systems,https://comuniq.xyz/post?t=838,612.
-Apple debuts M5 Pro and M5 Max to supercharge the most demanding pro workflows,https://www.apple.com/newsroom/2026/03/apple-debuts-m5-pro-and-m5-max-to-supercharge-the-most-demanding-pro-workflows/,613.
-Xous security focused open source on 22nm custom silicon,https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/xous-0-10-0-introducing-baochip-1x-support,614.
-Monitor the Situation,https://monitor-the-situation.com/middle-east,615.
-Federal judge rules: AI queries not protected from subpoenas/warrants,https://www.paulweiss.com/insights/client-memos/sdny-court-considers-whether-ai-generated-documents-are-subject-to-privilege-protections,616.
-Have your cake and decompress it too,https://spiraldb.com/post/cascading-compression-with-btrblocks,617.
-CPU scam: Chuwi CoreBook X uses AMD Ryzen 5 5500U instead of 7430U,https://www.notebookcheck.net/CPU-scam-Chuwi-CoreBook-X-uses-AMD-Ryzen-5-5500U-instead-of-7430U.1242048.0.html,618.
-Windows 98 Disk Defrag Simulator,https://defrag98.com/,619.
-Claude's Cycles [pdf],https://cs.stanford.edu/~knuth/papers/claude-cycles.pdf,620.
-"Dear Meta Smart Glasses Wearers: You're Being Watched, Too",https://gizmodo.com/dear-meta-smart-glasses-wearers-youre-being-watched-too-2000728928,621.
-"Flock license plate readers cost city big, deliver little",https://www.sandiegouniontribune.com/2026/02/28/flock-license-plate-readers-cost-city-big-deliver-litte/,622.
-Rust 1.94.0,https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/,623.
-"Downdetector, Speedtest sold to IT service provider Accenture in $1.2B deal",https://arstechnica.com/information-technology/2026/03/downdetector-speedtest-sold-to-it-service-provider-accenture-in-1-2b-deal/,624.
-FBI stymied by Apple's Lockdown Mode after seizing journalist's iPhone,https://arstechnica.com/tech-policy/2026/02/fbi-stymied-by-apples-lockdown-mode-after-seizing-journalists-iphone/,625.
-Eurosky.social accounts – launching early February,https://www.eurosky.tech/register,626.
-I keep building projects nobody wants. So this time I'm doing it backwards,item?id=47266253,627.
-What's new in Linux kernel for PostgreSQL,https://erthalion.info/2026/02/03/new-linux-for-postgresql/,628.
-"EEmicroGPT: 19,000× faster microgpt training on a laptop CPU (loss vs. time)",https://entrpi.github.io/eemicrogpt/,629.
-DRAM bots being deployed to hoover up memory chips and components,https://www.tomshardware.com/pc-components/dram/dram-bots-reportedly-being-deployed-to-hoover-up-memory-chips-and-components-one-operation-ran-10-million-web-scraping-requests-hitting-ddr5-ram-product-pages-every-6-5-seconds,630.
-Ex-NYPD Official Indicted for Accepting Bribes from Tech Exec,https://www.thecity.nyc/2026/02/12/kevin-taylor-phil-david-terence-banks-saferwatch-indictment/,631.
-How the Government Deceived Congress in the Debate over Surveillance Powers (2013),https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived,632.
-ChatGPT uninstalls surged by 295% after DoD deal,https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/,633.
-The Lobster Programming Language,https://strlen.com/lobster/,634.
-China ramps up 'high stakes' tech race with US as economic imbalances deepen,https://www.reuters.com/world/china/china-parliament-approve-growth-policy-plans-amid-growing-us-rivalry-2026-03-04/,635.
-A simplified guide to TRS MIDI,https://minimidi.world/,636.
-Ask HN: What sources like HN do you consume?,item?id=47215609,637.
-CPU scam: Chuwi CoreBook X uses AMD Ryzen 5 5500U instead of 7430U,https://www.notebookcheck.net/CPU-scam-Chuwi-CoreBook-X-uses-AMD-Ryzen-5-5500U-instead-of-7430U.1242048.0.html,638.
-Sam Altman Admits OpenAI Can't Control Pentagon's Use of AI,https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon,639.
-Who really invented television?,https://www.nationalgeographic.com/history/article/invention-television-tv-baird,640.
-Evolving descriptive text of mental content from human brain activity,https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts,641.
-A Race Within a Race: Exploiting CVE-2025-38617 in Linux Packet Sockets,https://blog.calif.io/p/a-race-within-a-race-exploiting-cve,642.
-"Altman takes jab at Anthropic, says gov't should be more powerful than companies",item?id=47264228,643.
-Congress Is Considering Abolishing Your Right to Be Anonymous Online,https://theintercept.com/2026/03/05/kosa-online-age-verification-free-speech-privacy/,644.
-Upside Robotics is reducing fertilizer use and waste in corn crops,https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/,645.
-"Show HN: SQLite for Rivet Actors – one database per agent, tenant, or document",https://github.com/rivet-dev/rivet,646.
-"Emuko: Fast RISC-V emulator written in Rust, boots Linux",https://github.com/wkoszek/emuko,647.
-OpenPencil – AI-native design editor. Open-source Figma alternative,https://github.com/open-pencil/open-pencil,648.
-I am directing the Department of War to designate Anthropic a supply-chain risk,https://twitter.com/secwar/status/2027507717469049070,649.
-The Glaring Oversight in the U.S. War Plan,https://www.theatlantic.com/national-security/2026/03/iran-war-drones-ukraine-pentagon/686249/,650.
-A rabbi is overseeing Pornhub. That's not so weird – The Forward,https://forward.com/culture/654804/pornhub-rabbi-solomon-friedman-jewish/,651.
-I built an RGB controller with Arduino,https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/,652.
-Silent Backwards Compatibility Breaking Changes in PyTorch,https://blog.ezyang.com/2026/03/silent-bc-breaking-changes/,653.
-Operational issue – Multiple services (UAE),https://health.aws.amazon.com/health/status,654.
-Legal AI slop is becoming a real problem,https://www.ctinsider.com/connecticut/article/supreme-court-ai-cases-middletown-21950447.php,655.
-"Show HN: I built a zero-browser, pure-JS typesetting engine for bit-perfect PDFs",https://github.com/cosmiciron/vmprint,656.
-IOC announces principles of neutrality during aggression against Iran,https://www.olympics.com/ioc/news/ioc-statement-on-athletes-safe-passage,657.
-The Robotic Dexterity Deadlock,https://www.origami-robotics.com/blog/dexterity-deadlocks.html,658.
-OpenAI – How to delete your account,https://help.openai.com/en/articles/6378407-how-to-delete-your-account,659.
-"Washington Post – In the Long Run, Wars Make Us Safer and Richer (2014)",https://www.washingtonpost.com/opinions/in-the-long-run-wars-make-us-safer-and-richer/2014/04/25/a4207660-c965-11e3-a75e-463587891b57_story.html,660.
-Full-Stack Dev's Internal Thought Process,https://www.youtube.com/watch?v=xE9W9Ghe4Jk,661.
-Ohio EPA weighs allowing data centers to dump wastewater into rivers,https://www.nbc4i.com/news/local-news/columbus/ohio-epa-weighs-allowing-data-centers-to-release-wastewater-into-rivers/,662.
-What AI coding costs you,https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/,663.
-Computer run on human brain cells learned to play 'Doom',https://www.popsci.com/technology/human-brain-cell-computer-plays-doom/,664.
-"Tesla loses Toyota and Stellantis from EU CO2 pool, taking billions with them",https://electrek.co/2026/03/03/toyota-stellantis-withdraw-tesla-co2-pool-europe/,665.
-I lost my ability to learn anything new because of AI and I need your opinions,item?id=47240612,666.
-Sneak peek at the redesigned Stack Overflow,https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/,667.
-Show HN: Sai – Your always-on co-worker,https://www.simular.ai/sai,668.
-Entry-level PC market to 'disappear' by 2028 – memory prices strain PC market,https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market,669.
-Inferring car movement patterns from passive TPMS measurements,https://dspace.networks.imdea.org/handle/20.500.12761/2011,670.
-The Ada Lovelace Fable,https://twitter.com/gtredoux/status/2029300803144696309,671.
-"Everything Changes, and Nothing Changes",https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/,672.
-Cancer blood tests are everywhere. Do they work?,https://www.nature.com/articles/d41586-026-00661-2,673.
-Salt of the Earth: Underground Salt Caverns Just Might Power Our Future,https://eos.org/features/salt-of-the-earth-vast-underground-salt-caverns-are-preserving-our-history-and-just-might-power-our-future,674.
-Gemini 3.1 Flash-Lite: Built for intelligence at scale,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/,675.
-Show HN: Gitcredits – movie-style end credits for any Git repo in your terminal,https://github.com/Higangssh/gitcredits,676.
-The Looming AI Clownpocalypse,https://honnibal.dev/blog/clownpocalypse,677.
-The US is using repurposed Iranian drone technology to attack Iran,https://theconversation.com/the-us-is-using-repurposed-iranian-drone-technology-to-attack-iran-a-military-expert-explains-why-277397,678.
-Neither Android nor iOS: DIY Smartphone Runs on ESP32,https://hackaday.com/2026/03/04/neither-android-nor-ios-diy-smartphone-runs-on-esp32/,679.
-Japan Radio Begins 24-Hour Shortwave Transmission in Response to Iran Attacks [pdf],https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/information/nhk_world-japan_radio_begins_temporary_shortwave_transmission.pdf,680.
-Working and Communicating with Japanese Engineers,https://www.tokyodev.com/articles/working-and-communicating-with-japanese-engineers,681.
-Microsoft Shipped Pirated Harry Potter Books on Their Blog for 14 Months,https://chaosguru.substack.com/p/good-hygiene-starts-on-day-one-not,682.
-Drinking newer groundwater linked to up to 62% higher Parkinson's risk,https://www.newsweek.com/one-type-of-drinking-water-linked-to-up-to-62-higher-parkinsons-risk-11603834,683.
-"January in Servo: preloads, better forms, details styling, and more",https://servo.org/blog/2026/02/28/january-in-servo/,684.
-Ask HN: What's your experience self-hosting in 2026?,item?id=47238601,685.
-Copilot Memory now on by default for Pro and Pro+ users in public preview,https://github.blog/changelog/2026-03-04-copilot-memory-now-on-by-default-for-pro-and-pro-users-in-public-preview/,686.
-Show HN: Vibe Code your 3D Models,https://github.com/ierror/synaps-cad,687.
-"Ketamine may fight chronic fatigue, study suggests",https://medicalxpress.com/news/2026-02-ketamine-chronic-fatigue.html,688.
-"My AI Agents Lie About Their Status, So I Built a Hidden Monitor",https://kaylarosemathisen.substack.com/p/my-ai-agents-lie-about-their-status,689.
-To update blobs or not to update blobs,https://codon.org.uk/~mjg59/blog/p/to-update-blobs-or-not-to-update-blobs/,690.
-"Theory of Constraints: ""Blue Light"" creating capacity for nothing (2007)",http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html,691.
-LexisNexis confirms data breach as hackers leak stolen files,https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/,692.
-Can Europe break free of Visa and Mastercard? MEPs stall digital euro,https://www.euronews.com/my-europe/2026/02/27/can-europe-break-free-of-visa-and-mastercard-meps-stall-digital-euro,693.
-"Dan Simmons, author of Hyperion, has died",https://www.dignitymemorial.com/obituaries/longmont-co/daniel-simmons-12758871,694.
-BM25,https://arpitbhayani.me/blogs/bm25/,695.
-OpenWrt 25.12.0 â€“ Stable Release,https://openwrt.org/releases/25.12/notes-25.12.0,696.
-Florida public universities to pause hiring new H-1B workers,https://www.wusf.org/education/2026-03-03/hiring-h1b-workers-florida-public-universities-pause-end-of-year,697.
-"Ask HN: Maintainers, do LLM-only users often clutter your issues/PRs?",item?id=47250497,698.
-TerraPower gets OK to start construction of its first nuclear plant,https://arstechnica.com/science/2026/03/terrapower-gets-ok-to-start-construction-of-its-first-nuclear-plant/,699.
-The AI Bubble Is an Information War,https://www.wheresyoured.at/the-ai-bubble-is-an-information-war/,700.
-Haida Salmon Restoration Corporation,https://en.wikipedia.org/wiki/Haida_Salmon_Restoration_Corporation,701.
-Show HN: Punch card simulator and Fortran IV interpreter,https://punch.ehrlich.dev/,702.
-The Power Brokers Behind the $250B Influencer Economy,https://www.wsj.com/lifestyle/careers/uta-influencer-managers-ali-berman-raina-penchansky-alix-earle-5094867f,703.
-Why machine identities now drive trust in banking,https://www.cyberark.com/resources/blog/the-new-ai-access-problem-why-machine-identities-now-drive-trust-in-banking,704.
-"Dr. Jebra Faushay: ""The 80s: You Just Had to Be There""",https://twitter.com/JebraFaushay/status/2015608814385402024,705.
-Trump says US will have a role in choosing Iran's next leader,https://www.reuters.com/world/iran-live-war-widens-iran-says-us-will-bitterly-regret-sinking-ship-2026-03-05/,706.
-Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster,https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html,707.
-Show HN: Ledge - Policy layer for AI agent payments (prevents unauthorized txns),https://github.com/Devendra116/ledge,708.
-AI Safety Farce,https://seanpedersen.github.io/posts/ai-safety-farce/,709.
-How does B-tree make your queries fast?,https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html,710.
-The Worst Language Won,https://theoryvc.com/blog-posts/the-worst-language-won,711.
-Cursor for academic writing (open source),https://github.com/octree-labs/octree,712.
-OCC Joins Fed Push to Trim Supervisory Red Flags Issued to Banks,https://news.bloomberglaw.com/banking-law/occ-joins-fed-push-to-trim-supervisory-red-flags-issued-to-banks,713.
-Pentagon chief blocks officers from Ivy League schools and top universities,https://fortune.com/2026/02/28/pentagon-officer-education-ivy-league-schools-universities-partners-ai-space/,714.
-Iranian strikes on Amazon data centers highlight industry's vulnerability,https://www.sfgate.com/news/world/article/iranian-strikes-on-amazon-data-centers-highlights-21952805.php,715.
-Codex app now available on Windows,https://developers.openai.com/codex/app/windows/,716.
-Vibe coded Lovable-hosted app littered with basic flaws exposed 18K users,https://www.theregister.com/2026/02/27/lovable_app_vulnerabilities/,717.
-The uncomfortable truth about getting people off US tech,https://blog.dougbelshaw.com/getting-off-us-tech/,718.
-Ask HN: What will OpenAI employees do now who have signed notdividedorg petition,item?id=47231498,719.
-Clawed,https://www.hyperdimensional.co/p/clawed,720.
-"EUrouter – Integrate the latest AI models, without sending data outside the EU",https://www.eurouter.ai,721.
-The most-seen UI on the internet? Redesigning turnstile and challenge pages,https://blog.cloudflare.com/the-most-seen-ui-on-the-internet-redesigning-turnstile-and-challenge-pages/,722.
-How Talks Between Anthropic and the Defense Dept. Fell Apart,https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html,723.
-Just two days of oatmeal cut bad cholesterol by 10%,https://www.sciencedaily.com/releases/2026/02/260225081217.htm,724.
-Zuckerberg's internal emails rendered as Facebook Messenger,https://zuckmail.vercel.app/,725.
-Internals of a Key-Value Store Built on SQLite's B-Tree Engine,https://hash-anu.github.io/snkv/,726.
-Apple Blocks US Users from Downloading ByteDance's Chinese Apps,https://www.wired.com/story/bytedance-apps-are-no-longer-available-in-us-app-stores/,727.
-Show HN: A Puzzle Game Based on Non-Commutative Operations,https://commutators.games,728.
-EFF to Court: Don't Make Embedding Illegal,https://www.eff.org/deeplinks/2026/03/eff-court-dont-make-embedding-illegal,729.
-FCC Chair Wants Networks to Pledge Loyalty for America's Big Bday,https://gizmodo.com/trumps-fcc-chair-wants-networks-to-run-nationalistic-content-and-pledge-loyalty-for-americas-big-bday-2000725152,730.
-"Mac external displays for designers and developers, part 2 (2022)",https://bjango.com/articles/macexternaldisplays2/,731.
-Iranian strikes test the Gulf's trillion-dollar AI dream,https://restofworld.org/2026/amazon-uae-data-center-fire-iran-strike/,732.
-"The unfortunate need for an ""age verification"" API for legal compliance",https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html,733.
-Underground Salt Caverns Are Preserving Our History,https://eos.org/features/salt-of-the-earth-vast-underground-salt-caverns-are-preserving-our-history-and-just-might-power-our-future,734.
-Should I Block Ads?,https://shouldiblockads.com/,735.
-"FTC Admits Age Verification Violates Children's Privacy Law, Ignores That Fact",https://www.techdirt.com/2026/03/04/ftc-admits-age-verification-violates-childrens-privacy-law-decides-to-just-ignore-that/,736.
-Anna's Archive Loses .LI Domain as Legal Pressure Mounts,https://torrentfreak.com/annas-archive-loses-li-domain-as-legal-pressure-mounts/,737.
-The Optimization Trap: Why the Birth Rate Can't Be Fixed,https://tantaman.com/2026-03-02-fertility-is-not-economics.html,738.
-Triplet Superconductor,https://www.sciencedaily.com/releases/2026/02/260221000252.htm,739.
-Show HN: Xpandas – running Pandas-style computation directly in pure C++,item?id=47215037,740.
-Bluesky adds (broken) age verification,https://bsky.app,741.
-Debunking the Myth of a Unified China-Russia: Threat Review,https://www.armscontrol.org/act/2026-03/features/debunking-myth-unified-china-russia-threat,742.
-Ask HN: What Online LLM / Chat do you use?,item?id=47227046,743.
-Evil in the West Bank,https://www.nybooks.com/articles/2026/03/12/evil-in-the-west-bank-david-shulman/,744.
-"LibreOffice hits back at critics, says its UI is better than Microsoft Office's",https://www.neowin.net/news/libreoffice-hits-back-at-its-critics-says-its-ui-is-better-than-microsoft-offices/,745.
-AI is unhealthy in a variety of different ways,https://www.computerworld.com/article/4138046/people-are-getting-sick-of-ai-literally.html,746.
-Anthropic Nears $20B Revenue Run Rate Amid Pentagon Feud,https://www.bloomberg.com/news/articles/2026-03-03/anthropic-nears-20-billion-revenue-run-rate-amid-pentagon-feud,747.
-Oracle Plans Job Cuts in Face of AI Cash Crunch,https://www.bloomberg.com/news/articles/2026-03-05/oracle-layoffs-to-impact-thousands-in-ai-cash-crunch,748.
-"""All Lawful Use"": More Than You Wanted to Know",https://www.astralcodexten.com/p/all-lawful-use-much-more-than-you,749.
-Urgent: Write the FCC to Oppose SpaceX and Reflect Orbital Plans,https://www.nakedcapitalism.com/2026/03/urgent-please-write-the-fcc-to-oppose-latest-spacex-world-changing-plan-massively-light-polluting-reflect-orbital-satellites-which-will-end-the-night-sky.html,750.
-"Deutschland-Stack: Open-Source Alliance Warns of ""Sovereignty Washing""",https://www.heise.de/en/news/Deutschland-Stack-Open-Source-Alliance-warns-of-Sovereignty-Washing-11178965.html,751.
-Left-Handers Are More Competitive Than Right-Handers,https://www.psychologytoday.com/us/blog/the-asymmetric-brain/202602/left-handers-are-more-competitive-than-right-handers,752.
-Linux Signalfd Is Useless,https://ldpreload.com/blog/signalfd-is-useless,753.
-Rhode Island Files First-in-Nation Single-Room Occupancy Model Legislation,https://ij.org/press-release/rhode-island-files-first-in-nation-single-room-occupancy-model-legislation-room-act-to-combat-housing-crisis/,754.
-Cancel ChatGPT AI boycott surges after OpenAI pentagon military deal,https://www.euronews.com/next/2026/03/02/cancel-chatgpt-ai-boycott-surges-after-openai-pentagon-military-deal,755.
-Yahoo Scout Beta,https://scout.yahoo.com,756.
-Stop Looking at Economic Averages,https://troytassier.substack.com/p/stop-looking-at-economic-averages,757.
-"NASA chatbots, Treasury coding, OPM drafting: How agencies have deployed Claude",https://fedscoop.com/nasa-chatbots-treasury-coding-opm-drafting-agencies-deployed-claude/,758.
-Show HN: Writing App for Novelist,https://novelos.studio/,759.
-Setting up OpenClaw on a cloud VM,https://blog.skypilot.co/openclaw-on-skypilot/,760.
-Good News: AI Will Eat Application Software,https://a16z.com/good-news-ai-will-eat-application-software/,761.
-The AI Surveillance Debate Is Missing the Most Dangerous Part,https://weaponizedspaces.substack.com/p/the-ai-surveillance-debate-is-missing,762.
-"Open PDF Studio: A free, open-source PDF editor and annotator",https://github.com/OpenAEC-Foundation/open-pdf-studio,763.
-Pentagon head to military officers: You cannot study in these 22 universities,https://timesofindia.indiatimes.com/technology/tech-news/pentagon-head-to-military-officers-you-cannot-study-in-these-22-universities-across-the-world-see-full-list/articleshow/128910201.cms,764.
-Erfurt Latrine Disaster,https://en.wikipedia.org/wiki/Erfurt_latrine_disaster,765.
-Geran-3 Drone Disassembly,https://war-sanctions.gur.gov.ua/en/page-geran-3,766.
-White House stalls release of approved US science budgets,https://www.nature.com/articles/d41586-026-00601-0,767.
-MiniMax M2.5 is beating Claude Opus 4.6 and MiniMax is 17x-20x cheaper,https://www.swebench.com/,768.
-"4,500 Physicians Agree (About Bacon)",https://machielreyneke.com/blog/persuasion/,769.
-Resist 'dangerous and socially unacceptable' age checks for social media,https://www.politico.eu/article/age-check-social-media-scientist-warning/,770.
-Show HN: Xmloxide – an agent-made Rust replacement for libxml2,https://github.com/jonwiggins/xmloxide,771.
-Device that can extract 1K liters of clean water a day from desert air revealed,https://www.tomshardware.com/tech-industry/device-that-can-extract-1-000-liters-of-clean-water-a-day-from-desert-air-revealed-by-2025-nobel-prize-winner-claimed-to-work-in-desert-air-with-20-percent-humidity-or-lower-delivering-off-grid-personalized-water,772.
-Tell HN: I got Claude Max for my open source project,item?id=47244173,773.
-Malus: Clean room engineering of any open-source dependency,https://malus.sh/blog.html,774.
-"Facing Its Third Data Center, an Iowa County Rolls Out Extensive Zoning Rules",https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/,775.
-Payment fees matter more than you think,https://cuencahighlife.com/why-payment-fees-matter-more-than-you-think/,776.
-Welcome to the Wasteland: A Thousand Gas Towns,https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f,777.
-Islets – The Spatial CMS,https://islets.app,778.
-Show HN: Tomoshibi – A writing app where your words fade by firelight,https://tomoshibi.in-hakumei.com/,779.
-"YggTorrent Shuts Down After Hack, Leak and Stolen Crypto",https://torrentfreak.com/yggtorrent-shuts-down-after-hack-leak-and-stolen-crypto/,780.
-"When I lost my university email, my identity as scientist took an unexpected hit",https://www.science.org/content/article/when-i-lost-my-university-email-my-identity-scientist-took-unexpected-hit,781.
-"Ow My Foot – Error Handling Across C, Go, Rust, and Google's Absl",https://n8z.dev/posts/ow-my-foot/,782.
-Claude Code rolls out a voice mode capability,https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/,783.
-"Show HN: Decided to play god this morning, so I built an agent civilisation",https://github.com/nocodemf/werld,784.
-Sam Altman admits OpenAI can't control Pentagon's use of AI,https://www.theguardian.com/technology/2026/mar/04/sam-altman-openai-pentagon,785.
-"We may soon have 70M boomers too old to drive, too car-dependent to stop",https://lloydalter.substack.com/p/we-may-soon-have-70-million-boomers,786.
-"Show HN: Tradefacts.io – US HTS tariff schedule, a JSON API and change detection",https://tradefacts.io,787.
-"Show HN: Atrium – An open-source, self-hosted client portal",https://github.com/Vibra-Labs/Atrium,788.
-Major data leak forum dismantled in international cybercrime operation,https://www.europol.europa.eu/media-press/newsroom/news/major-data-leak-forum-dismantled-in-global-action-against-cybercrime-forum,789.
-Four months of Ruby Central moving Ruby backward,https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/,790.
-"Show HN: The Silent Filter, The Delegation of Synthesis and Linguistic Drift",https://juanpabloaj.com/2026/02/27/the-silent-filter/,791.
-Allegations of insider trading over prediction-market bets tied to Iran conflict,https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict,792.
-RTINGS: Revamping Our Membership Program,https://www.rtings.com/company/revamping-our-membership-program,793.
-Ask HN: Would engineers be interested in a technical prep consultant?,item?id=47224051,794.
-The LLM Sycophancy Antidote,https://photostructure.com/coding/sycophancy-antidote/,795.
-Anthropic Adds Free Memory Feature and Import Tool to Lure ChatGPT Users,https://www.macrumors.com/2026/03/02/anthropic-memory-import-tool/,796.
-How OpenAI caved to The Pentagon on AI surveillance,https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth,797.
-How do I cancel my ChatGPT subscription?,https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription,798.
-Polymarket and Kalshi's Iran War Wagers Are Ghoulish – and Troubling,https://www.bloomberg.com/opinion/articles/2026-03-04/prediction-markets-polymarket-kalshi-iran-war-wagers-are-troubling,799.
-XPrivo Search: Europe's 100% Data Sovereign Search Engine,https://www.xprivo.com/blog/en/european-search-engine-launch/,800.
-Whats Up with Claude Lately?,item?id=47227740,801.
-Why was the Commodore 64 disk drive so slow?,https://imrannazar.com/articles/commodore-1541,802.
-Mexico Mandates Biometric SIM Registration for All Phone Numbers,https://reclaimthenet.org/mexico-mandates-biometric-sim-registration-for-all-phone-numbers,803.
-CIA Station Hit in Drone Attack,https://www.washingtonpost.com/national-security/2026/03/03/cia-saudi-arabia-drone-attack-iran/,804.
-CSP for Pentesters: Understanding the Fundamentals,https://www.kayssel.com/newsletter/issue-20/,805.
-LibreOffice Online dragged out of the attic,https://www.theregister.com/2026/03/02/libreoffice_online_deatticized/,806.
-A survey of write protect notches on floppy disks and other media,https://devblogs.microsoft.com/oldnewthing/20260303-00/?p=112104,807.
-Loreline: Modern and open-source language for writing interactive fiction,https://loreline.app/en/,808.
-Microgpt explained interactively,https://growingswe.com/blog/microgpt,809.
-Blind refugee found dead in NY after being released by immigration authorities,https://www.bbc.com/news/articles/cq57j559eq4o,810.
-Ask HN: Who still works async and has a 'no meetings' work policy in 2026?,item?id=47230618,811.
-Show HN: Visualize Git commit histories as animated force-directed graphs,https://github.com/nshcr/git-commits-threadline,812.
-"President Trump, Pam Bondi sued over sale of TikTok assets",https://www.npr.org/2026/03/05/g-s1-112605/tiktok-deal-lawsuit-trump-bondi,813.
-It's official: Hiring managers aren't reading your Résumé,https://www.businessinsider.com/hiring-managers-arent-reading-resumes-slop-2026-3,814.
-Show HN: I built a dashboard to track AI's impact on jobs,https://www.clocktick.ai/,815.
-Lego's New Tech-Packed Smart Brick,https://www.wired.com/story/exclusive-inside-look-at-new-lego-smart-brick/,816.
-OpenWRT 25.12.0 Released,https://openwrt.org/releases/25.12/notes-25.12.0,817.
-"390TB video game archive being taken offline due to skyrocketing RAM, SSD",https://www.tomshardware.com/video-games/390tb-video-game-archive-being-taken-offline-due-to-skyrocketing-ram-ssd-and-hard-drive-prices-ai-driven-supply-squeeze-results-in-closure-of-one-of-the-largest-online-video-game-archives,818.
-OpenAI is working on its own GitHub competitor,https://www.neowin.net/news/openai-is-reportedly-working-on-its-own-github-competitor/,819.
-Trump rejects Khamenei's son as Iran war intensifies with US-Israel strikes,https://www.reuters.com/world/asia-pacific/iran-launches-wave-missiles-israel-us-republicans-block-measure-halt-us-air-2026-03-05/,820.
-Three scientists who said no to Epstein,https://www.science.org/content/article/meet-three-scientists-who-said-no-epstein,821.
-Offline 23 Hours a Day,https://sive.rs/off23,822.
-"Show HN: Reclaim Flowers – A 2D physics-based ""Digital Altar"" protocol",https://github.com/voice-of-japan/Virtual-Protest-Protocol/blob/main/README.md,823.
-Civis Romanus Sum,https://minutes.substack.com/p/civis-romanus-sum,824.
-"$82,000 in 48 Hours from stolen Gemini API Key vs. normal monthly Usage Of $180",https://old.reddit.com/r/googlecloud/comments/1reqtvi/82000_in_48_hours_from_stolen_gemini_api_key_my/,825.
-France Floats Nuclear Deployment Across Europe,https://www.wsj.com/world/europe/france-floats-nuclear-deployment-across-europe-056a5cbc,826.
-Ubuntu is planning to comply with Age Verification law,https://old.reddit.com/r/linux/comments/1rk2th7/ubuntu_is_planning_to_comply_with_age/,827.
-Secure LLM Scripting. Finally,https://mlld.ai/,828.
-Cards Against Humanity Statement and Form for Tariff Refunds,https://www.getyourfuckingmoneyback.com/,829.
-"Show HN: BananaOS, vibecoded operating system that boots on a 486 with ~11MB RAM",item?id=47183215,830.
-Ask HN: What prompt do you use to get Claude to consistently render LaTeX?,item?id=47238785,831.
-Helsinki just went a full year without a single traffic death,https://www.politico.eu/article/helsinki-no-traffic-death-roads-eu-accident-finland-driving-transport/,832.
-I Built a Scheme Compiler with AI in 4 Days,https://matthewphillips.info/programming/posts/i-built-a-scheme-compiler-with-ai/,833.
-Chat at your own risk Data brokers are selling deeply personal bot transcripts,https://www.theregister.com/2026/03/03/chatbot_data_harvesting_personal_info/,834.
-MIT boffins aim to build injectable mini-organs that fill in for a damaged liver,https://www.theregister.com/2026/03/03/need_more_liver_mit_boffins/,835.
-FCaptcha – A modern CAPTCHA system designed to detect everything,https://github.com/WebDecoy/FCaptcha,836.
-Donald Trump insists there are no wind farms in China. Here are 20 in pictures,https://www.theguardian.com/us-news/gallery/2026/mar/05/pictures-china-wind-farms-trump,837.
-South Korean Police Lose Seized Crypto by Posting Password Online,https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191,838.
-OpenAI CEO Sam Altman Defends Pentagon Work to Staff,https://www.wsj.com/tech/ai/openai-ceo-altman-defends-pentagon-work-to-staff-calls-backlash-really-painful-76d769ec,839.
-The Supreme Court doesn't care if you want to copyright your AI-generated art,https://www.engadget.com/ai/the-supreme-court-doesnt-care-if-you-want-to-copyright-your-ai-generated-art-171849407.html,840.
-Show HN: LocalRAG â€“ Ask AI about your own documents (iOS/Android),https://localrag.app,841.
-Iran war heralds era of AI-powered bombing quicker than 'speed of thought',https://www.theguardian.com/technology/2026/mar/03/iran-war-heralds-era-of-ai-powered-bombing-quicker-than-speed-of-thought,842.
-Daily LNG freight rates jump over 40% amid Mideast strikes,https://www.reuters.com/business/energy/daily-lng-freight-rates-jump-over-40-amid-mideast-strikes-spark-commodities-says-2026-03-03/,843.
-"After a lawsuit, USDA agrees to share climate risk data with farmers",https://grist.org/food-and-agriculture/after-a-lawsuit-usda-agrees-to-share-climate-risk-data-with-farmers/,844.
+Meta told to pay $375M for misleading users over child safety,https://www.bbc.com/news/articles/cql75dn07n2o,1.
+TurboQuant: Redefining AI efficiency with extreme compression,https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/,2.
+Goodbye to Sora,https://twitter.com/soraofficialapp/status/2036532795984715896,3.
+VitruvianOS – Desktop Linux Inspired by the BeOS,https://v-os.dev,4.
+Looking at Unity made me understand the point of C++ coroutines,https://mropert.github.io/2026/03/20/unity_cpp_coroutines/,5.
+Flighty Airports,https://flighty.com/airports,6.
+Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller,https://videojs.org/blog/videojs-v10-beta-hello-world-again,7.
+Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised,https://github.com/BerriAI/litellm/issues/24512,8.
+"In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",https://spectrum.ieee.org/data-center-dc,9.
+Apple Business,https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/,10.
+I tried to prove I'm not AI. My aunt wasn't convinced,https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake,11.
+VNDB founder Yorhel has died,https://vndb.org/t24787,12.
+"I wanted to build vertical SaaS for pest control, so I took a technician job",https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead,13.
+Why I forked httpx,https://tildeweb.nl/~michiel/httpxyz.html,14.
+You can run a DNS server (2025),https://simonsafar.com/2025/running_dns/,15.
+Arm AGI CPU,https://newsroom.arm.com/blog/introducing-arm-agi-cpu,16.
+The Last Testaments of Richard II and Henry IV,https://www.historytoday.com/archive/feature/last-testaments-richard-ii-and-henry-iv,17.
+Why did the chicken cross the road?,https://taylor.town/other-side,18.
+Algorithm Visualizer,https://algorithm-visualizer.org/,19.
+Fun with CSF firmware (RK3588 GPU firmware),https://icecream95.gitlab.io/fun-with-csf-firmware.html,20.
+Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1,https://github.com/cigrainger/duckdb-hnsw-acorn,21.
+Microbenchmarking Chipsets for Giggles,https://chipsandcheese.com/p/microbenchmarking-chipsets-for-giggles,22.
+"Show HN: Email.md – Markdown to responsive, email-safe HTML",https://www.emailmd.dev/,23.
+Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains,https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/,24.
+"Show HN: Gemini can now natively embed video, so I built sub-second video search",https://github.com/ssrajadh/sentrysearch,25.
+"An Aural Companion for Decades, CBS News Radio Crackles to a Close",https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html,26.
+Building a coding agent in Swift from scratch,https://github.com/ivan-magda/swift-claude-code,27.
+A Compiler Writing Journey,https://github.com/DoctorWkt/acwj,28.
+"Hypothesis, Antithesis, synthesis",https://antithesis.com/blog/2026/hegel/,29.
+Open source isn't a tip jar – it's time to charge for access,https://www.theregister.com/2026/03/25/open_source_bill_opinion/,30.
+Missile defense is NP-complete,https://smu160.github.io/posts/missile-defense-is-np-complete/,31.
+Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon,https://github.com/t8/hypura,32.
+Intel Device Modeling Language for virtual platforms,https://github.com/intel/device-modeling-language,33.
+How the world’s first electric grid was built,https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/,34.
+Show HN: AI Roundtable – Let 200 models debate your question,https://opper.ai/ai-roundtable/,35.
+Nanobrew: The fastest macOS package manager compatible with brew,https://nanobrew.trilok.ai/,36.
+What happened to GEM?,https://dfarq.homeip.net/whatever-happened-to-gem/,37.
+Data Manipulation in Clojure Compared to R and Python,https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html,38.
+Lago (YC S21) Is Hiring,https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link,39.
+Overcoming the friendship recession,https://joeprevite.com/friendship-recession/,40.
+"Microsoft's ""fix"" for Windows 11",https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/,41.
+Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build,https://github.com/AmElmo/proofshot,42.
+Debunking Zswap and Zram Myths,https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html,43.
+Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home,https://www.jackhogan.me/blog/box-of-secrets/,44.
+Epic Games to cut more than 1k jobs as Fortnite usage falls,https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/,45.
+No Terms. No Conditions,https://notermsnoconditions.com,46.
+Implementing automatic eSIM installation on Android,https://medium.com/proandroiddev/integration-of-automatic-esim-installation-on-android-6c5f6d7124cb,47.
+curl > /dev/sda: How I made a Linux distro that runs wget | dd,https://astrid.tech/2026/03/24/0/curl-to-dev-sda/,48.
+ARM AGI CPU: Specs and SKUs,https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/,49.
+Log File Viewer for the Terminal,https://lnav.org/,50.
+LaGuardia pilots raised safety alarms months before deadly runway crash,https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash,51.
+Opera: Rewind The Web to 1996 (Opera at 30),https://www.web-rewind.com,52.
+Mystery jump in oil trading ahead of Trump post draws scrutiny,https://www.bbc.com/news/articles/cg547ljepvzo,53.
+Welcome to FastMCP,https://gofastmcp.com/getting-started/welcome,54.
+Is anybody else bored of talking about AI?,https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/,55.
+Show HN: Gridland: make terminal apps that also run in the browser,https://www.gridland.io/,56.
+"The final switch: Goldsboro, 1961 (2013)",https://blog.nuclearsecrecy.com/2013/09/27/final-switch-goldsboro-1961/,57.
+So where are all the AI apps?,https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html,58.
+Epoch confirms GPT5.4 Pro solved a frontier math open problem,https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs,59.
+I quit editing photos,https://jamesbaker.uk/i-quit-editing-photos/,60.
+Testing the Swift C compatibility with Raylib (+WASM),https://carette.xyz/posts/swift_c_compatibility_with_raylib/,61.
+Secure Domain Name System (DNS) Deployment 2026 Guide [pdf],https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-81r3.pdf,62.
+WolfGuard: WireGuard with FIPS 140-3 cryptography,https://github.com/wolfssl/wolfguard,63.
+A Chess Playing Machine – Shannon (1950) [pdf],https://www.paradise.caltech.edu/ist4/lectures/shannonchess1950.pdf,64.
+LLM Neuroanatomy II: Modern LLM Hacking and Hints of a Universal Language?,https://dnhkng.github.io/posts/rys-ii/,65.
+"io_uring, libaio performance across Linux kernels and an unexpected IOMMU trap",https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14,66.
+Dune3d: A parametric 3D CAD application,https://github.com/dune3d/dune3d,67.
+FCC updates covered list to include foreign-made consumer routers,https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers,68.
+"Ripgrep is faster than grep, ag, git grep, ucg, pt, sift (2016)",https://burntsushi.net/ripgrep/,69.
+MSA: Memory Sparse Attention,https://github.com/EverMind-AI/MSA,70.
+Claude Code Cheat Sheet,https://cc.storyfox.cz,71.
+GitHub is once again down,https://www.githubstatus.com/incidents/kp06czybl7dw,72.
+.apks are just .zips; semi-legally hacking software for orphaned hardware [video],https://www.youtube.com/watch?v=P1kfuCkWo24,73.
+Show HN: Cq – Stack Overflow for AI coding agents,https://blog.mozilla.ai/cq-stack-overflow-for-agents/,74.
+BIO – The Bao I/O Co-Processor,https://www.crowdsupply.com/baochip/dabao/updates/bio-the-bao-i-o-co-processor,75.
+purl: a curl-esque CLI for making HTTP requests that require payment,https://www.purl.dev/,76.
+A 6502 disassembler with a TUI: A modern take on Regenerator,https://github.com/ricardoquesada/regenerator2000,77.
+"RustTraining: Beginner, advanced, expert level Rust training material",https://github.com/microsoft/RustTraining,78.
+Show HN: I ran a language model on a PS2,https://github.com/xaskasdf/ps2-llm,79.
+Trivy under attack again: Widespread GitHub Actions tag compromise secrets,https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise,80.
+Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types,https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/,81.
+"US expected to send thousands more soldiers to Middle East, sources say",https://www.reuters.com/world/middle-east/us-expected-send-thousands-soldiers-middle-east-sources-say-2026-03-24/,82.
+iPhone 17 Pro Demonstrated Running a 400B LLM,https://twitter.com/anemll/status/2035901335984611412,83.
+IRIX 3dfx Voodoo driver and glide2x IRIX port,https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/,84.
+The Resolv hack: How one compromised key printed $23M,https://www.chainalysis.com/blog/lessons-from-the-resolv-hack/,85.
+ARM to make processors for first time in their history,https://newsroom.arm.com/news/arm-agi-cpu-launch,86.
+A retro terminal music player inspired by Winamp,https://github.com/bjarneo/cliamp,87.
+Pompeii's battle scars linked to an ancient 'machine gun',https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html,88.
+How to use storytelling to fit inline assembly into Rust,https://www.ralfj.de/blog/2026/03/13/inline-asm.html,89.
+Tony Hoare and His Imprint on Computer Science,https://cacm.acm.org/blogcacm/tony-hoare-and-his-imprint-on-computer-science/,90.
+BIO: The Bao I/O Coprocessor,https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/,91.
+How I'm Productive with Claude Code,https://neilkakkar.com/productive-with-claude-code.html,92.
+Can I hear a difference between MP3s and uncompressed audio?,https://82mhz.net/posts/2026/03/can-i-hear-a-difference-between-mp3s-and-uncompressed-audio/,93.
+Autoresearch on an old research idea,https://ykumar.me/blog/eclip-autoresearch/,94.
+"Firefox introduces Split View: Two tabs side by side, right where you need them",https://blog.mozilla.org/en/firefox/split-view/,95.
+Jury finds Meta liable in case over child sexual exploitation on its platforms,https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation,96.
+Running Iroh on an ESP32,https://www.iroh.computer/blog/iroh-on-esp32,97.
+The Jellies That Evolved a Different Way to Keep Time,https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-to-keep-time-20260320/,98.
+Issue Tracking Is Dead,https://linear.app/next,99.
+I created my first AI-assisted pull request,https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/,100.
+Two pilots dead after plane and ground vehicle collide at LaGuardia,https://www.bbc.com/news/articles/cy01g522ww4o,101.
+Ju Ci: The Art of Repairing Porcelain,https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/,102.
+"Sandboxing AI agents, 100x faster",https://blog.cloudflare.com/dynamic-workers/,103.
+Can you get root with only a cigarette lighter? (2024),https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html,104.
+America tells private firms to “hack back”,https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back,105.
+PC Gamer recommends RSS readers in a 37mb article that just keeps downloading,https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/,106.
+Bare Metal Flashing of the Rp2040,https://mackinnon.info/2025/04/20/bare-metal-flashing-of-the-RP2040.html,107.
+Show HN: Antimatter – Match the opposites (Mahjong solitaire mechanic),https://www.linguabase.org/antimatter/,108.
+Country that put backdoors in Cisco routers to spy on world bans foreign routers,https://www.theregister.com/2026/03/24/fcc_foreign_routers/,109.
+Microservices and the First Law of Distributed Objects (2014),https://martinfowler.com/articles/distributed-objects-microservices.html,110.
+General Motors is assisting with the restoration of a rare EV1,https://evinfo.net/2026/03/general-motors-is-assisting-with-the-restoration-of-an-1996-ev1/,111.
+Sunsetting the Techempower Framework Benchmarks,https://github.com/TechEmpower/FrameworkBenchmarks/issues/10932,112.
+I wrote a 750-page guide to self-hosting production apps,https://selfdeployment.io/,113.
+Claude-Code Automode,https://claude.com/blog/auto-mode,114.
+Slowing Down in the Age of Coding Agents,https://the.scapegoat.dev/slowing-down-in-the-age-of-coding-agents/,115.
+Local Stack Archived their GitHub repo and requires an account to run,https://github.com/localstack/localstack,116.
+US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects,https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html,117.
+An incoherent Rust,https://www.boxyuwu.blog/posts/an-incoherent-rust/,118.
+Young Graduates Face the Grimmest Job Market in Years,https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html,119.
+Show HN: RemoteDevJobs – AI-curated remote developer positions with scoring,https://remotedvjobs.com,120.
+Reports of code's death are greatly exaggerated,https://stevekrouse.com/precision,121.
+Windows 3.1 tiled background .bmp archive,https://github.com/andreasjansson/win-3.1-backgrounds,122.
+I built an AI receptionist for a mechanic shop,https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/,123.
+Single ATC controller was managing LaGuardia Airport at time of Air Canada crash [video],https://www.youtube.com/watch?v=Pbm-QJAAzNY,124.
+The gold standard of optimization: A look under the hood of RollerCoaster Tycoon,https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/,125.
+The future of version control,https://bramcohen.com/p/manyana,126.
+"LiteLLM PyPI has been compromised an hour ago, do not update",https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/,127.
+NanoClaw Adopts OneCLI Agent Vault,https://nanoclaw.dev/blog/nanoclaw-agent-vault/,128.
+GitHub appears to be struggling with measly three nines availability,https://www.theregister.com/2026/02/10/github_outages/,129.
+“Collaboration” is bullshit,https://www.joanwestenberg.com/collaboration-is-bullshit/,130.
+Firefox Now Has Free VPN,https://blog.mozilla.org/en/firefox/built-in-vpn/,131.
+NASA kills lunar space station to focus on ambitious Moon base,https://arstechnica.com/space/2026/03/nasa-kills-lunar-space-station-to-focus-on-ambitious-moon-base/,132.
+"Show HN: The King Wen Permutation: [52, 10, 2]",https://gzw1987-bit.github.io/iching-math/,133.
+Digs: iOS app that syncs your Discogs collection and lets you browse it offline,https://lustin.fr/blog/building-digs/,134.
+The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y,https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies,135.
+Miscellanea: The War in Iran,https://acoup.blog/2026/03/25/miscellanea-the-war-in-iran/,136.
+Diverse perspectives on AI from Rust contributors and maintainers,https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html,137.
+The IBM scientist who rewrote the rules of information just won a Turing Award,https://www.ibm.com/think/news/ibm-scientist-charles-bennett-turing-award,138.
+TurboQuant: Redefining AI efficiency with extreme compression,https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/,139.
+Package Managers Need to Cool Down,https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/,140.
+The AI Client in WordPress 7.0,https://make.wordpress.org/core/2026/03/24/introducing-the-ai-client-in-wordpress-7-0/,141.
+Project Nomad – Knowledge That Never Goes Offline,https://www.projectnomad.us,142.
+Is the Male Loneliness Epidemic Just for Wealthy White Men?,https://link.springer.com/article/10.1007/s11199-025-01638-7,143.
+I Love the Em Dash–Too Bad If AI Does Too,https://thewalrus.ca/i-love-the-em-dash-too-bad-if-ai-does-too/,144.
+Atomic Display Switching: Solving,https://github.com/piot5/displayflow_cli,145.
+Designing AI for Disruptive Science,https://www.asimov.press/p/ai-science,146.
+Apple's intentional crippling of Mobile Safari,https://pwa.gripe/,147.
+Palantir Will No Longer Profit Off of New Yorkers' Health Data,https://theintercept.com/2026/03/24/palantir-new-york-city-hospitals-contract/,148.
+From Zip to Nought: The Rise and Fall of Iomega,https://hackaday.com/2026/03/24/from-zip-to-nought-the-rise-and-fall-of-iomega/,149.
+OpenCode – Open source AI coding agent,https://opencode.ai/,150.
+Why I love NixOS,https://www.birkey.co/2026-03-22-why-i-love-nixos.html,151.
+Primary School Children Face Having to Work Until They Are 75,https://www.thetimes.com/money/pensions/article/primary-school-children-work-until-75-retirement-2v5xbrdmf,152.
+US SEC's ex-enforcement chief clashed with bosses over cases before leaving,https://www.reuters.com/business/finance/us-secs-ex-enforcement-chief-clashed-with-bosses-before-leaving-sources-say-2026-03-23/,153.
+Vibecoders Can't Build for Longevity,https://blog.d11r.eu/theory-building/,154.
+How to attract AI bots to your open source project,https://nesbitt.io/2026/03/21/how-to-attract-ai-bots-to-your-open-source-project.html,155.
+Regular army and reserve components enlistment program: Summary of change,https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf,156.
+Krita 5.3.0 and 6.0.0 Released,https://krita.org/en/posts/2026/krita-5.3.0-released/,157.
+Systemd has not implemented age verification,https://blog.bofh.it/debian/id_473,158.
+You are not your job,https://jry.io/writing/you-are-not-your-job/,159.
+Windows native app development is a mess,https://domenic.me/windows-native-dev/,160.
+Power consumption of Game Boy flash cartridges (2021),https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/,161.
+Bored of eating your own dogfood? Try smelling your own farts,https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/,162.
+Some things just take time,https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/,163.
+Swift 6.3 Released,https://www.swift.org/blog/swift-6.3-released/,164.
+"Ads are coming to Apple Maps, as Apple expands its business offerings",https://techcrunch.com/2026/03/24/apple-maps-ads-apple-business/,165.
+Flash-MoE: Running a 397B Parameter Model on a Laptop,https://github.com/danveloper/flash-moe,166.
+MAUI Is Coming to Linux,https://avaloniaui.net/blog/maui-avalonia-preview-1,167.
+They’re vibe-coding spam now,https://tedium.co/2026/02/25/vibe-coded-email-spam/,168.
+Cloudflare's Gen 13 servers: trading cache for cores for 2x performance,https://blog.cloudflare.com/gen13-launch/,169.
+"Tin Can, a 'landline' for kids",https://www.businessinsider.com/tin-can-landline-kids-cellphone-cell-alternative-how-2025-9,170.
+"Cloudflare flags archive.today as ""C&C/Botnet""; no longer resolves via 1.1.1.2",https://radar.cloudflare.com/domains/domain/archive.today,171.
+"Show HN: Wordif.sh – word-by-word text comparison in color, output to HTML/PDF",https://github.com/jazzfan2/wordif,172.
+"Dead zones of the imagination: on violence, bureaucracy, and interpretive labor",https://archive.org/details/graeber-dead-zones-imagination-2012,173.
+Now Available: Depot CI,https://depot.dev/blog/now-available-depot-ci,174.
+"U.S. Government's Ban on Anthropic Looks Like Punishment Attempt, Judge Says",https://www.wsj.com/tech/ai/u-s-governments-ban-on-anthropic-looks-like-punishment-attempt-judge-says-2ff98fe3,175.
+FFmpeg 101 (2024),https://blogs.igalia.com/llepage/ffmpeg-101/,176.
+Migrating to the EU,https://rz01.org/eu-migration/,177.
+Iranian strikes on Amazon data centers highlight industry's vulnerability,https://apnews.com/article/amazon-aws-data-center-uae-iran-bahrain-71066b0a822c4cfd88b61e3fe79af917,178.
+Newly purchased Vizio TVs now require Walmart accounts to use smart features,https://arstechnica.com/gadgets/2026/03/newly-purchased-vizio-tvs-now-require-walmart-accounts-to-use-smart-features/,179.
+HopTab – Open source macOS app switcher and tiler that replaces Cmd+Tab,https://www.royalbhati.com/hoptab,180.
+Cyberattack on vehicle breathalyzer company leaves drivers stranded in the US,https://techcrunch.com/2026/03/20/cyberattack-on-vehicle-breathalyzer-company-leaves-drivers-stranded-across-the-us/,181.
+Show HN: Mapping the most convenient ways to meet someone with public transit,https://www.commutometer.com/meet-in-sanfrancisco,182.
+The three pillars of JavaScript bloat,https://43081j.com/2026/03/three-pillars-of-javascript-bloat,183.
+Is it a pint?,https://isitapint.com/,184.
+Show HN: Skub – a sliding puzzle browser game,https://skub.app,185.
+"Migrating the American express payment network, twice",https://americanexpress.io/migrating-the-payments-network-twice/,186.
+Molly guard in reverse,https://unsung.aresluna.org/molly-guard-in-reverse/,187.
+Maxell MXCP-P100 – wireless cassette player,https://maxell-usa.com/product/cassetteplayer/,188.
+Tinybox – A powerful computer for deep learning,https://tinygrad.org/#tinybox,189.
+"March, 19-21: God is a comedian",https://no01.substack.com/p/march-19-21-god-is-a-comedian,190.
+Show HN: Revise – An AI Editor for Documents,https://revise.io,191.
+Brute-forcing my algorithmic ignorance,http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1,192.
+DoorDash Tasks,https://about.doordash.com/en-us/news/introducing-doordash-tasks,193.
+Teaching Claude to QA a mobile app,https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html,194.
+JavaScript Is Enough,https://geajs.com/,195.
+"Microsoft blocks trick to unlock native NVMe driver, but workarounds still exist",https://www.tomshardware.com/software/windows/microsoft-blocks-the-registry-hack-trick-that-unlocked-native-nvme-performance-on-windows-11,196.
+Unlocking 25 Gigabit/S on 10 GbE Direct Attach Copper,https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/,197.
+"Meadow: An ultra-compact smartphone without web browser, social media or email",https://www.notebookcheck.net/The-Meadow-launches-as-an-ultra-compact-smartphone-without-web-browser-social-media-or-e-mail.1257904.0.html,198.
+France's aircraft carrier located in real time by Le Monde through fitness app,https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html,199.
+What young workers are doing to AI-proof themselves,https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284,200.
+Update on the OpenAI Foundation,https://openaifoundation.org/news/update-on-the-openai-foundation,201.
+"If DSPy is so great, why isn't anyone using it?",https://skylarbpayne.com/posts/dspy-engineering-patterns/,202.
+Outworked – An Open Source Office UI for Claude Code Agents,https://github.com/outworked/outworked,203.
+A case against currying,https://emi-h.com/articles/a-case-against-currying.html,204.
+Volkswagen to pivot plant to missile defence production,https://www.marketscreener.com/news/volkswagen-to-pivot-one-plant-to-missile-defence-production-for-israel-s-rafael-ft-reports-ce7e5ed2da80f527,205.
+More common mistakes to avoid when creating system architecture diagrams,https://www.ilograph.com/blog/posts/more-common-diagram-mistakes/,206.
+Spanish court order Airbnb to pay €64M fine and refuses to suspend sanction,https://www.euronews.com/travel/2026/03/23/spanish-court-orders-airbnb-to-pay-64-million-fine-and-refuses-to-suspend-sanction,207.
+New Mexico just handed Meta its first courtroom defeat over child safety,https://techcrunch.com/2026/03/24/new-mexico-just-handed-meta-its-first-courtroom-defeat-over-child-safety-and-the-rest-of-the-country-is-watching/,208.
+New 'Lord of the Rings' Movie from Stephen Colbert in Development at WB,https://variety.com/2026/film/news/lord-of-the-rings-movie-stephen-colbert-warner-bros-1236698684/,209.
+Building an FPGA 3dfx Voodoo with Modern RTL Tools,https://noquiche.fyi/voodoo,210.
+Common Lisp Development Tooling,https://www.creativetension.co/posts/common-lisp-development-tooling,211.
+"Show HN: Visualizing Apple Health workout data (stats, trends, insights)",https://apps.apple.com/us/app/streakout-workout-stats/id6758457318,212.
+Talking Liquid Glass with Apple,https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple,213.
+AI-pilled Arm CEO teases mystery products that will turn it into a money machine,https://www.theregister.com/2026/03/24/arm_ceo_boasts_new_silicon/,214.
+Linux Applications Programming by Example: The Fundamental APIs (2nd Edition),https://github.com/arnoldrobbins/LinuxByExample-2e,215.
+"Professional video editing, right in the browser with WebGPU and WASM",https://tooscut.app/,216.
+"Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record,217.
+OpenClaw is a security nightmare dressed up as a daydream,https://composio.dev/content/openclaw-security-and-vulnerabilities,218.
+Computer dramatically plays BBC news music before every meeting,https://twitter.com/rtwlz/status/2036082537949434164,219.
+Ubisoft's death by a thousand cuts,https://www.thegamebusiness.com/p/ubisofts-death-by-a-thousand-cuts,220.
+Topsy (Elephant),https://en.wikipedia.org/wiki/Topsy_(elephant),221.
+"Show HN: Atomic – Self-hosted, semantically-connected personal knowledge base",https://github.com/kenforthewin/atomic,222.
+Five years of running a systems reading group at Microsoft,https://armaansood.com/posts/systems-reading-group/,223.
+"Oil at $150 will trigger global recession, says boss of financial BlackRock",https://www.bbc.com/news/articles/c9wqrdkx8ppo,224.
+Study: 'Security Fatigue' May Weaken Digital Defenses,https://www.albany.edu/news-center/news/2026-study-security-fatigue-may-weaken-digital-defenses,225.
+Dataframe 1.0.0.0,https://discourse.haskell.org/t/ann-dataframe-1-0-0-0/13834,226.
+"Apply video compression on KV cache to 10,000x less error at Q4 quant",https://github.com/cenconq25/delta-compress-llm,227.
+USA bans all new routers for consumers,https://www.heise.de/en/news/USA-bans-all-new-routers-for-consumers-11222049.html,228.
+"POSSE – Publish on your Own Site, Syndicate Elsewhere",https://indieweb.org/POSSE,229.
+"Helios: 14B open source video model, real time at 19.5fps, runs on 6GB VRAM",https://github.com/PKU-YuanGroup/Helios,230.
+Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords,https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/,231.
+A Japanese glossary of chopsticks faux pas (2022),https://www.nippon.com/en/japan-data/h01362/,232.
+GrapheneOS will remain usable by anyone without requiring personal information,https://grapheneos.social/@GrapheneOS/116261301913660830,233.
+Meta told to pay $375M for misleading users over child safety,https://www.bbc.co.uk/news/articles/cql75dn07n2o,234.
+GrapheneOS refuses to comply with new age verification laws for operating system,https://www.tomshardware.com/software/operating-systems/grapheneos-refuses-to-comply-with-age-verification-laws,235.
+Meta must pay $375M for violating New Mexico child exploitation law,https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html,236.
+Why Anti-Trust Regulators Should Reject WBD-Paramount Skydance Link-Up,https://deadline.com/2026/03/anti-trust-regulators-reject-wbd-paramount-skydance-column-1236764465/,237.
+Sashiko: An agentic Linux kernel code review system,https://sashiko.dev/,238.
+Why craft-lovers are losing their craft,https://writings.hongminhee.org/2026/03/craft-alienation-llm/,239.
+Cuba's Fragile Power Grid Finds a Powerful New Partner,https://oilprice.com/Energy/Energy-General/Cubas-Fragile-Power-Grid-Finds-a-Powerful-New-Partner.html,240.
+Pentagon Adopts New Limits for Journalists After Court Loss,https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html,241.
+"Floci – A free, open-source local AWS emulator",https://github.com/hectorvent/floci,242.
+Discontinuation and reinitiation of dual-labeled GLP-1 receptor agonists,https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people-stop-taking-glp-1s-1279029,243.
+Show HN: Littlebird – Screenreading is the missing link in AI,https://littlebird.ai/,244.
+"LLMs learn what programmers create, not how programmers work",item?id=47494696,245.
+ICE: $45 an Hour to Stand There. TSA: $0 an Hour to Keep You Safe,https://botonomous.ai/featured/government_shutdown/article-v2.html,246.
+Aletheia – deterministic COBOL verification for mainframe migrations,https://github.com/Aletheia-Verification/Aletheia,247.
+The Slow Collapse of MkDocs,https://fpgmaas.com/blog/collapse-of-mkdocs/,248.
+Show HN: We built a terminal-only Bluesky / AT Proto client written in Fortran,https://github.com/FormerLab/fortransky,249.
+No Semicolons Needed,https://terts.dev/blog/no-semicolons-needed/,250.
+"Grafeo – A fast, lean, embeddable graph database built in Rust",https://grafeo.dev/,251.
+Chest Fridge (2009),https://mtbest.net/chest-fridge/,252.
+Huel Joins Danone,https://huel.com/pages/huel-joins-danone,253.
+The Social Smolnet,https://ploum.net/2026-03-20-social-smolnet.html,254.
+The creative agency model is dead. That's why I shut mine down,https://www.itsnicethat.com/articles/the-creative-agency-model-is-dead-creative-industry-100326,255.
+Experimenting with Starlette 1.0 with Claude skills,https://simonwillison.net/2026/Mar/22/starlette/,256.
+American aviation is near collapse?,https://www.theatlantic.com/newsletters/2026/03/aviation-failures-tsa-dhs-shutdown/686505/,257.
+Ask HN: AI productivity gains – do you fire devs or build better products?,item?id=47475859,258.
+Hide macOS Tahoe's Menu Icons,https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/,259.
+Microsoft weighs legal action over $50B Amazon-OpenAI cloud deal,https://www.ft.com/content/e814f4c3-4fb5-4e2e-90a6-470044436b39,260.
+Amazon says AWS' Bahrain region 'disrupted' following drone activity,https://www.reuters.com/world/middle-east/amazon-says-awss-bahrain-region-disrupted-following-drone-activity-2026-03-24/,261.
+Intuitions for Tranformer Circuits,https://www.connorjdavis.com/p/intuitions-for-transformer-circuits,262.
+Supply Chain Attack in litellm 1.82.8 on PyPI,https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/,263.
+FreeCAD 1.1.0 Released,https://wiki.freecad.org/Release_notes_1.1,264.
+"Chat GPT 5.2 cannot explain the German word ""geschniegelt""",https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/,265.
+Biological Age Tests are a lie,https://twitter.com/nikhilyadala/status/2035920229889630486,266.
+How Ford burned $12B in Brazil (2021),https://www.reuters.com/business/autos-transportation/how-ford-burned-12-billion-brazil-2021-05-20/,267.
+We rewrote our Rust WASM parser in TypeScript and it got faster,https://www.openui.com/blog/rust-wasm-parser,268.
+"Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646,269.
+Battle of U.S. rail barons: Merger is setting the industry on a collision course,https://www.thecanadianpressnews.ca/business/battle-of-the-rail-barons-how-a-merger-is-setting-the-industry-on-a-collision/article_4b82ef47-bb9b-533a-ac97-78a89d065ad1.html,270.
+Behind the Curtain – America's next class war: AI fluency,https://www.axios.com/2026/03/24/ai-use-inequality-class,271.
+iBook Clamshell,https://www.ibook-clamshell.com/index.php/en/,272.
+How to Spot a Liar: Kate White on the Techniques of Deception in Mysteries,https://crimereads.com/how-to-spot-a-liar-kate-white-on-the-techniques-of-deception-in-mysteries/,273.
+Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful,https://github.com/oguzbilgic/agent-kernel,274.
+Boomloom: Think with your hands,https://www.theboomloom.com,275.
+NASA to spend $20B on moon base after cancelling orbiting station,https://www.theguardian.com/science/2026/mar/24/nasa-moon-base-cancelling-artemis,276.
+Markdown Ate the World,https://matduggan.com/markdown-ate-the-world/,277.
+ForgeKV – Redis-compatible KV server in Rust that scales with cores,https://github.com/ForgeKV/forgekv,278.
+TLA+ Mental Models,http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html,279.
+Delta suspends special congressional services amid shutdown,https://thehill.com/policy/transportation/5797907-delta-suspends-special-congressional-desk-service/,280.
+Liquid Glass Is Permanent,https://mjtsai.com/blog/2026/03/23/liquid-glass-is-permanent/,281.
+"Meta Harmed Children, Allowing Adults to Prey on Them",https://www.wsj.com/tech/landmark-verdict-says-meta-harmed-children-allowing-adults-to-prey-on-them-cb3ad674,282.
+The ancient reason there are 60 minutes in an hour,https://www.bbc.com/future/article/20260320-the-ancient-reason-there-are-60-minutes-in-an-hour-and-60-seconds-in-a-minute,283.
+OpenAI set to discontinue Sora video platform,https://www.reuters.com/technology/openai-set-discontinue-sora-video-platform-app-wsj-reports-2026-03-24/,284.
+Starlette 1.0.0,https://github.com/Kludex/starlette,285.
+Alpha Micro AM-1000E and AM-1200,http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html,286.
+NASA unveils Space Reactor-1 Freedom mission to Mars in 2028,https://www.nasaspaceflight.com/2026/03/nasa-sr1-freedom-mars-2028/,287.
+Tell HN: Russians may soon lose access to the global internet,item?id=47507903,288.
+Hypnic Jerk,https://en.wikipedia.org/wiki/Hypnic_jerk,289.
+Predicting onset of symptomatic Alzheimerʼs disease with plasma p-tau217 clocks,https://www.nature.com/articles/s41591-026-04206-y,290.
+How BYD got EV chargers to work almost as fast as gas pumps,https://www.wired.com/story/how-byds-ev-charger-got-even-faster-and-it-might-not-matter-as-much-as-you-think/,291.
+Who can afford to get ahead in America?,https://www.nbcnews.com/specials/unaffordable-america-economy-inflation-us-jobs-prices-bills-stocks/,292.
+Hormuz Minesweeper – Are you tired of winning?,https://hormuz.pythonic.ninja/,293.
+Our commitment to Windows quality,https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/,294.
+Palantir turns poisonous on the campaign trail,https://www.ft.com/content/5d6f924d-2e7e-4a5e-ae20-d4f8e29a7d17,295.
+Australia and European Union to sign free trade agreement,https://www.abc.net.au/news/2026-03-24/eu-australia-free-trade-agreement-reached/106488438,296.
+Do Not Turn Child Protection into Internet Access Control,https://news.dyne.org/child-protection-is-not-access-control/,297.
+Show HN: WhyThere.life – Compare cities side-by-side to decide where to move,https://whythere.life,298.
+Postgraphile v5 Released,https://postgraphile.org/news/2026-03-24-v5-published/,299.
+I used bond convexity math to build a kill switch for rogue AI agents,https://www.trustlogdynamics.com/,300.
+A Billionaire-Backed Startup Wants to Grow 'Organ Sacks' to Replace Animal Test,https://www.wired.com/story/a-billionaire-backed-startup-wants-to-grow-organ-sacks-to-replace-animal-testing/,301.
+Ghostling,https://github.com/ghostty-org/ghostling,302.
+Non-trivial error in physics paper found via Lean,https://arxiv.org/abs/2603.08139,303.
+"Semi-retirement, or, changing my relationship with the BSDs",https://briancallahan.net/blog/20260322.html,304.
+Training Center for Maneuvering on Manned Model Ships,https://www.portrevel.com/,305.
+PicoZ80 Is a Drop-In Replacement for Everyone's Favorite Zilog CPU,https://hackaday.com/2026/03/23/picoz80-is-a-drop-in-replacement-for-everyones-favorite-zilog-cpu/,306.
+Departure Mono Font,https://departuremono.com/,307.
+Super Micro Shares Plunge 25% After Co-Founder Charged in $2.5B Smuggling Plot,https://www.forbes.com/sites/tylerroush/2026/03/20/super-micro-shares-plunge-25-after-co-founder-charged-in-25-billion-ai-chip-smuggling-plot/,308.
+A pig's brain has been frozen with its cellular activity locked in place,https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/,309.
+Self-propagating malware wipes Iran-based machines,https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/,310.
+How We Synchronized Editing for Rec Room's Multiplayer Scripting System,https://www.tyleo.com/blog/how-we-synchronized-editing-for-rec-rooms-multiplayer-scripting-system,311.
+A Visual Guide to Attention Variants in Modern LLMs,https://magazine.sebastianraschka.com/p/visual-attention-variants,312.
+The Danger Behind Meta Killing End-to-End Encryption for Instagram DMs,https://www.wired.com/story/the-danger-behind-metas-decision-to-kill-end-to-end-encrypted-instagram-dms/,313.
+Everything old is new again: memory optimization,https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html,314.
+Victorian service stations run out of fuel as Middle East war spikes demand,https://www.abc.net.au/news/2026-03-24/victorian-petrol-stations-run-out-diesel-fuel-iran-conflict/106489808,315.
+Attention Residuals,https://github.com/MoonshotAI/Attention-Residuals,316.
+"Java is fast, code might not be",https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/,317.
+Half of VMware users plan to reduce usage by 2028,https://www.theregister.com/2026/03/24/vmware_usage_reduction_analysis/,318.
+Show HN: Termcraft â€“ Terminal-first 2D sandbox survival in Rust,https://github.com/pagel-s/termcraft,319.
+Kagi: Small Web Just Got Bigger,https://blog.kagi.com/small-web-updates,320.
+AI Coding Tools Are Stuck in 2007's Dev UX,https://www.davidreis.me/2026/ai-coding-tools-stuck-in-2007s-dev-ux,321.
+Fast regex search: indexing text for agent tools,https://cursor.com/blog/fast-regex-search,322.
+Personal Computing (2022),https://josh8.com/blog/personal_computing.html,323.
+'Miracle': Europe reconnects with lost spacecraft,https://phys.org/news/2026-03-miracle-europe-reconnects-lost-spacecraft.html,324.
+The US bans all new foreign-made network routers,https://www.engadget.com/big-tech/the-us-bans-all-new-foreign-made-network-routers-223622966.html,325.
+HP trialed mandatory 15-minute support call wait times (2025),https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/,326.
+U.S. FCC Bans Foreign-Made Routers as a 'National Security Risk',https://www.cnet.com/home/internet/fcc-bans-foreign-made-routers-as-national-security-risk/,327.
+WTF: Police responded on Saturday night due to a zero-day,https://www.heise.de/en/news/WTF-Police-responded-on-Saturday-night-due-to-a-zero-day-11221590.html,328.
+"Army raises enlistment age to 42, removes waiver for marijuana possession",https://taskandpurpose.com/news/army-enlistment-age-marijuana-waiver/,329.
+This picture broke my brain [3B1B video],https://www.youtube.com/watch?v=ldxFjLJ3rVY,330.
+Cyber.mil serving file downloads using TLS certificate which expired 3 days ago,https://www.cyber.mil/stigs/downloads,331.
+Philips to drop Google TV for European-based Titan OS,https://9to5google.com/2026/03/23/google-tv-just-lost-a-big-tv-brand-to-web-app-based-titan-os/,332.
+Western carmakers' retreat from electric risks dooming them to irrelevance,https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china,333.
+"Atuin v18.13 – better search, a PTY proxy, and AI for your shell",https://blog.atuin.sh/atuin-v18-13/,334.
+Can Programming Be Liberated from the von Neumann Style? (1977) [pdf],https://worrydream.com/refs/Backus_1978_-_Can_Programming_Be_Liberated_from_the_von_Neumann_Style.pdf,335.
+Social media bans and digital curfews to be trialled on UK teenagers,https://www.bbc.com/news/articles/cn89g3ngkyzo,336.
+StackOverflow's questions per day have fallen 99%,https://meta.stackoverflow.com/questions/433864/do-you-agree-with-gergely-that-stack-overflow-is-almost-dead,337.
+Hetzner Adopts Nokia AI for DDoS Defense,https://www.hetzner.com/pressroom/nokia-network-security/,338.
+Ask HN: Founders of estonian e-businesses – is it worth it?,item?id=47500239,339.
+"I'm OK being left behind, thanks",https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/,340.
+Dusking is a trend aimed at helping people switch off at the end of the day,https://theconversation.com/dusking-is-a-trend-aimed-at-helping-people-switch-off-at-the-end-of-the-day-how-does-it-work-277814,341.
+404 Deno CEO not found,https://dbushell.com/2026/03/20/denos-decline-and-layoffs/,342.
+What Came After the 486?,https://dfarq.homeip.net/what-came-after-486/,343.
+"Mayor of Paris removed parking spaces, reduced the number of cars",https://www.cnn.com/2026/03/21/travel/paris-transformation-anne-hidalgo-mayor,344.
+Meme Buildings,https://misfitsarchitecture.com/2026/03/15/meme-buildings/,345.
+Europe waged war on young people to pay for pensions,https://www.telegraph.co.uk/money/pensions/state-pensions/how-europe-went-to-war-with-its-pensioners/,346.
+"Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",https://github.com/RedGridTactical/RedGridLink,347.
+Exploring 8 Shaft Weaving,https://slab.org/2026/03/11/exploring-8-shaft-weaving/,348.
+Entso-E final report on Iberian 2025 blackout,https://www.entsoe.eu/publications/blackout/28-april-2025-iberian-blackout/,349.
+Reboot: Rebuild civilization by reinventing lost technologies,https://ksindi.com/reboot/,350.
+Sand from Different Beaches in the World,https://magnifiedsand.com/,351.
+Iran war energy crisis is a renewable energy wake-up call,https://apnews.com/article/middle-east-wars-renewable-energy-asia-4b5fe0693ce5816472c905db85f7da6e,352.
+LG's new 1Hz display is the secret behind a new laptop's battery life,https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html,353.
+Krita 6.0 Released with Qt6 Port and Better Wayland Support,https://www.phoronix.com/news/Krita-6.0-Released,354.
+Turns out your coffee addiction may be doing your brain a favor,https://www.theregister.com/2026/03/21/turns_out_your_coffee_addiction/,355.
+NumKong: 2'000 Mixed Precision Kernels for All,https://ashvardanian.com/posts/numkong/,356.
+AI (2014),https://blog.samaltman.com/ai,357.
+"Ask HN: Is anyone here also developing ""perpetual AI psychosis"" like Karpathy?",item?id=47493938,358.
+"New cars allegedly include ""eye of sauron"" to monitor drivers",https://twitter.com/VladTheInflator/status/2036174124180185260,359.
+Ask HN: Is using AI tooling for a PhD literature review dishonest?,item?id=47495510,360.
+Journalist Security Checklist: Preparing Devices for Travel Through a US Border,https://www.eff.org/deeplinks/2025/06/journalist-security-checklist-preparing-devices-travel-through-us-border,361.
+PostGIS-compatible spatial functions for ClickHouse,https://github.com/bacek/chgeos/,362.
+Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility,item?id=47457472,363.
+Mole – Deep clean and optimize your Mac,https://github.com/tw93/Mole,364.
+Firefox Adds Tab Notes,https://blog.mozilla.org/en/firefox/tab-notes/,365.
+Folks Aren't Forming Memories Like They Used To,https://cendyne.dev/posts/2026-03-23-folks-arent-forming-memories-like-they-used-to.html,366.
+Claude dispatch: assign tasks to Claude from anywhere,https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork,367.
+Chuck Norris has died,https://variety.com/2026/film/news/chuck-norris-dead-walker-texas-ranger-dies-1236694953/,368.
+Addfox: A new open-source browser extension framework,https://addfox.dev,369.
+"AI Proteomics Competition 2026 – $13K Prize, Internships and Compute Support",https://www.bohrium.com/competitions/9813928053?tab=introduce,370.
+The bridge to wealth is being pulled up with AI,https://danielhomola.com/m%20&%20e/ai/your-bridge-to-wealth-is-being-pulled-up/,371.
+Tom Scott is Returning to YouTube [video],https://www.youtube.com/watch?v=Yz3lSKgz4q8,372.
+Employees Are Taking Pay Cuts in Huge Numbers,https://www.businessinsider.com/employees-taking-pay-cuts-huge-numbers-2026-3,373.
+Seam carving with forward energy,https://pictolab.io/seam-carving,374.
+"Show HN: Aerko_ – An offline-first, Vanilla JavaScript fitness PWA with local AI",https://github.com/SrPakura/AERKO_PWA,375.
+"Show HN: AI SDLC Scaffold, repo template for AI-assisted software development",https://github.com/pangon/ai-sdlc-scaffold/,376.
+I built a free interactive platform to learn KDB/q,https://kdb-academy.web.app/,377.
+$ teebot.dev – from terminal to tee in 6 seconds,https://teebot.dev,378.
+Apple Plans AI Reboot with Siri App,https://finance.yahoo.com/sectors/technology/articles/apple-plans-ai-reboot-siri-184859342.html,379.
+Gangs of Karachi (2015),https://harpers.org/archive/2015/09/gangs-of-karachi/,380.
+Show HN: Lockpaw One hotkey to cover your Mac screen without putting it to sleep,https://github.com/sorkila/lockpaw,381.
+Arch Linux considers criticism of Age Verification to be a violation,https://xcancel.com/LundukeJournal/status/2035852545864683533#m,382.
+Surface contamination holds the key to a static electricity mystery,https://physicsworld.com/a/surface-contamination-holds-the-key-to-a-static-electricity-mystery/,383.
+NYU Professors Begin Strike over Pay and Job Protections,https://www.nytimes.com/2026/03/23/nyregion/nyu-professors-strike.html,384.
+"Hawaii's worst flooding in 20 years threatens dam, prompts evacuations",https://www.nbcnews.com/weather/floods/hawaii-worst-flooding-in-20-years-rcna264573,385.
+Porting Doom to AIX on IBM RS/6000 [video],https://www.youtube.com/watch?v=XzhCGSE7KKw,386.
+"Driverless Big Rigs Are Coming to American Highways, and Soon",https://www.nytimes.com/2026/03/17/business/self-driving-semi-trucks-texas-us.html,387.
+Student beauty and grades under in-person and remote teaching,https://www.sciencedirect.com/science/article/pii/S016517652200283X,388.
+Kimchi-derived probiotic found to promote excretion of intestinal nanoplastics,https://phys.org/news/2026-03-kimchi-derived-probiotic-excretion-intestinal.html,389.
+Show HN: I made a tool for converting text snippets to shareable image,https://snip2img.com,390.
+Show HN: Refrax – my Arc Browser replacement I made from scratch,https://refrax.website/,391.
+Proof Theory and Logic Programming,https://www.lix.polytechnique.fr/Labo/Dale.Miller/ptlp/,392.
+A Markdown textfile based Kanban board in a single HTML file,https://github.com/chr15m/kanban-todo,393.
+Dear Europe: Germany has shown the way forward,https://blog.documentfoundation.org/blog/2026/03/23/dear-europe/,394.
+Chopping my brain into bits – turning my brain into a 3D model on the web,https://srg.id.au/posts/brain/,395.
+Having Kids (2019),https://paulgraham.com/kids.html,396.
+Disintegration Fingerprinting: A Low-Cost Tool to Identify Falsified Medicines,https://www.medrxiv.org/content/10.1101/2025.08.15.25333621v2,397.
+Someone has publicly leaked an exploit kit that can hack iPhones,https://techcrunch.com/2026/03/23/someone-has-publicly-leaked-an-exploit-kit-that-can-hack-millions-of-iphones/,398.
+Tesla faces wider probe of self-driving feature,https://apnews.com/article/tesla-selfdriving-musk-regulators-7edce5705e93775e1b8bb77b5dd54007,399.
+Is playing music good for the brain?,https://www.economist.com/science-and-technology/2026/03/20/is-playing-music-good-for-the-brain,400.
+Department of State advises Americans worldwide to exercise increased caution,https://travel.state.gov/en/international-travel/travel-advisories/global-events/worldwide-caution.html,401.
+Nvidia CEO Jensen Huang says 'I think we've achieved AGI',https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi,402.
+Why Independent Browser Engines Matter,https://blog.mozilla.org/netpolicy/2026/03/23/competition-innovation-and-the-future-of-the-web/,403.
+"World Cup Trophy Theft: Gangsters, Spies and the Dog That Found It",https://www.bloomberg.com/news/articles/2026-03-20/the-1966-world-cup-trophy-theft-gangsters-spies-and-the-dog-that-found-it,404.
+90% of crypto's Illinois primary spending failed to achieve its objective,https://www.mollywhite.net/micro/entry/202603172318,405.
+OpenAI to double workforce as business push intensifies,https://www.ft.com/content/7ffea5b4-e8bc-47cd-adb4-257f84c8028b,406.
+Show HN: Passport Globe (See where your passport takes you),https://hariharan.uno/globe,407.
+Apple announces new Mac sales record following MacBook Neo launch,https://www.macrumors.com/2026/03/20/apple-shares-mac-sales-achievement/,408.
+Walmart fires OpenAI in playbook-changing move,https://www.thestreet.com/retail/walmart-fires-openai-in-playbook-changing-move,409.
+My Astrophotography in the Movie Project Hail Mary,https://rpastro.square.site/s/stories/phm,410.
+Flipper Zero gets an AI upgrade,https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967,411.
+Show HN: Lula – multi-agent coding assistant with sandboxed Rust exec engine,https://github.com/christianmeurer/Lula,412.
+"US Gov Investigators Found No EU Internet Censorship, and Ignored the Findings",https://www.techdirt.com/2026/03/24/the-trump-admins-own-investigators-found-no-eu-internet-censorship-so-they-ignored-the-findings/,413.
+A Student Built a Water Filter That Removes 96% of Microplastics,https://dailygalaxy.com/2026/03/teen-built-water-filter-microplastics/,414.
+Lyme Disease Vaccine Candidate Demonstrates Strong Efficacy in Phase 3 Trial,https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-valneva-announce-lyme-disease-vaccine-candidate,415.
+"Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",https://github.com/FormerLab/shadow-fleet-tracker-light,416.
+Palantir extends reach into British state as gets access to sensitive FCA data,https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data,417.
+"Study finds no evidence cannabis helps anxiety, depression, or PTSD",https://www.sciencedaily.com/releases/2026/03/260319044656.htm,418.
+How Do US Men and Women Spend Their Time?,https://www.pewresearch.org/social-trends/feature/how-do-u-s-men-and-women-spend-their-time/,419.
+Show HN: I replaced every function in a codebase with English – it still works,https://tril.cc,420.
+FIRST Robotics founder Dean Kamen resigns because of Epstein files,https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire,421.
+California bill to stop 'dominant platforms' from blocking competition,https://yro.slashdot.org/story/26/03/22/2025249/tech-leaders-support-california-bill-to-stop-dominant-platforms-from-blocking-competition,422.
+Show HN: FPGA soft-core of the Saab Viggen's 1963 airborne computer,https://github.com/FormerLab/ck37-core,423.
+My Prodigal Brainchild,https://nealstephenson.substack.com/p/my-prodigal-brainchild,424.
+India Built the Back Office. A.I. Is Starting to Shrink It,https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html,425.
+PwC will say goodbye to staff who aren't convinced about AI,https://www.theregister.com/2026/03/19/pwc_ai/,426.
+"Bets on US-Iran ceasefire show signs of insider knowledge, say experts",https://www.theguardian.com/us-news/2026/mar/23/bets-us-iran-ceasefire-show-signs-of-insider-knowledge-say-experts-polymarket,427.
+"Users Quit ChatGPT for Claude in 1,487% Surge",https://www.forbes.com/sites/rachelwells/2026/03/23/users-quit-chatgpt-for-claude-in-1487-surge-heres-how-work-changes/,428.
+Explosion at the Valero Oil Refinery in Texas,https://old.reddit.com/r/TFE/comments/1s208fv/an_explosion_at_the_valero_oil_refinery_of_port/,429.
+Abstract Wikipedia,https://abstract.wikipedia.org/wiki/Abstract_Wikipedia:Main_page,430.
+"AI boom risks widening wealth divide, says BlackRock's Larry Fink",https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink,431.
+The Diminished Art of Coding,https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/,432.
+Can the world get its supply of oil by bypassing the Strait of Hormuz?,https://www.firstpost.com/explainers/iran-war-strait-of-hormuz-blocked-possible-alternatives-oil-gas-supply-13989112.html,433.
+The Impact of AI on Game Dev Jobs. Open to Work Crisis,https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922,434.
+Mutual Party Extremism,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6425039,435.
+Storing Solar Energy as Ice for Air Conditioning,https://hackaday.com/2026/03/22/storing-solar-energy-as-ice-for-air-conditioning/,436.
+KiCad 10.0.0 Release,https://www.kicad.org/blog/2026/03/Version-10.0.0-Released/,437.
+"Oregon school cell phone ban: 'Engaged students, joyful teachers'",https://portlandtribune.com/2026/03/18/oregon-school-cell-phone-ban-engaged-students-joyful-teachers/,438.
+MIT tech review: OpenAI is Building an Automated Researcher,https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/,439.
+Ga. Court Order Included AI-Hallucinated Cases from Prosecutor's Proposed Order,https://reason.com/volokh/2026/03/21/georgia-court-order-apparently-included-ai-hallucinated-cases-copied-from-prosecutors-proposed-order/,440.
+Show HN: Joonote – A note-taking app on your lock screen and notification panel,https://joonote.com/,441.
+Don't tell the AI it's an expert programmer,https://www.theregister.com/2026/03/24/ai_models_persona_prompting/,442.
+No Semicolons Needed – how 11 languages deal with eliminating semicolons,https://terts.dev/blog/no-semicolons-needed/,443.
+"Australia's emergency plan starts with carpooling, escalates to fuel caps",https://www.smh.com.au/politics/federal/australia-s-emergency-plan-starts-with-carpooling-escalates-to-fuel-caps-20260325-p5wob6.html,444.
+Someone Forked Systemd to Strip Out Its Age Verification Support,https://itsfoss.com/news/systemd-fork-strips-out-age-verification/,445.
+SpaceX hits back at Amazon in orbital datacenter dispute,https://www.theregister.com/2026/03/23/spacex_amazon_orbital_datacenters/,446.
+Ant Mill,https://en.wikipedia.org/wiki/Ant_mill,447.
+Ozempic Is About to Go Generic for Billions of People,https://www.nytimes.com/2026/03/19/health/ozempic-wegovy-generic-india-china-canada.html,448.
+"Show HN: AgentMeet – Free, open-source platform for agent-to-agent work",https://www.agentmeet.net/,449.
+Let's See Paul Allen's SIMD CSV Parser,http://chunkofcoal.com/posts/simd-csv/,450.
+How cross-thread double free detection could work in glibc malloc,https://kallus.org/blog_tcache_key.html,451.
+Show HN: OpenFOIA – local-first FOIA toolkit with entity graphs,https://github.com/JordanCoin/openfoia,452.
+Coding as a Game of Probability,https://robertmaple.co.uk/coding-as-a-game-of-probabilities/,453.
+Why Expanding Roads Fails to Reduce Traffic Congestion,https://www.nominalnews.com/p/expanding-roads-traffic-congestion,454.
+355 Issues of the UK music magazine NME from 1969-1983,https://archive.org/search?query=creator%3A%22NME+-+New+Musical+Express%22&sort=-addeddate,455.
+"Terence Tao – Kepler, Newton, and the true nature of mathematical discovery",https://www.dwarkesh.com/p/terence-tao,456.
+Monkey C – Small familiar language for apps on Garmin watches,https://developer.garmin.com/connect-iq/monkey-c/,457.
+Open Source Gave Me Everything Until I Had Nothing Left to Give,https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give,458.
+"Slap your MacBook, it yells back (Apple Silicon accelerometer)",https://github.com/taigrr/spank,459.
+Operation Epic Fury Explained: Riches and Domination Drive This War,https://truthout.org/articles/operation-epic-fury-explained-riches-and-domination-drive-this-war/,460.
+Qt 6.11 Released,https://www.qt.io/blog/qt-6.11-released,461.
+The Reason Windows Hate Is Exploding: It's the End of Personal Computing [video],https://www.youtube.com/watch?v=e7a89ZYcTo8,462.
+Firefox 149.0 Release Notes,https://www.firefox.com/en-US/firefox/149.0/releasenotes/,463.
+Tell HN: H&R Block tax software installs a TLS backdoor,item?id=47457162,464.
+The Architecture of Asking,https://echo.surf/essays/the-architecture-of-asking/,465.
+'The thing I want to emphasize is that nobody knows',https://www.tker.co/p/stock-market-whipsaw-amid-iran-war-uncertainty,466.
+GSA extends comments on AI clause after industry pushback,https://fedscoop.com/gsa-extends-comments-on-sweeping-ai-clause-after-industry-pushback/,467.
+Ads Are Popping Up on the Fridge and It Isn't Goong Well,https://www.wsj.com/lifestyle/samsung-refrigerator-ads-lg-whirlpool-ge-10ea7bcc,468.
+The world just lived through the 11 hottest years on record,https://www.nature.com/articles/d41586-026-00946-6,469.
+MacBook M5 Pro and Qwen3.5 = Local AI Security System,https://www.sharpai.org/benchmark/,470.
+"Show HN: ArXiv metadata as Parquet files (2.99M papers, 1.44GB, 417 files)",https://huggingface.co/datasets/open-index/open-arxiv,471.
+What Does the Viral Afroman Trial Have to Do with Section 230?,https://www.techdirt.com/2026/03/23/what-does-the-viral-afroman-trial-have-to-do-with-section-230/,472.
+Nevada utility to Lake Tahoe: Find electricity elsewhere,https://calmatters.org/economy/2026/03/nevada-utility-to-lake-tahoe-find-electricity-elsewhere/,473.
+Google Search is now using AI to replace headlines,https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment,474.
+"Blackburn AI Bill Repeals Section 230, Expands AI Liability, Age Verification",https://reclaimthenet.org/trump-america-ai-act-section-230-repeal-ai-liability-age-verification,475.
+Verilator open-source SystemVerilog simulator,https://github.com/verilator/verilator,476.
+Canada moves towards homegrown rocket launches,https://www.ctvnews.ca/sci-tech/article/incredibly-important-canada-moves-towards-homegrown-rocket-launches/,477.
+Windows 11's Start menu was built using React – now switching to native WinUI,https://www.windowscentral.com/microsoft/windows-11/windows-11-major-improvements-announced-movable-taskbar-less-ads-reduced-copilot-better-performance-2026,478.
+Freestyle Linked Lists Tricks,https://nullprogram.com/blog/2025/12/31/,479.
+Solod: Go can be a better C,https://antonz.org/solod/,480.
+"Minutes before Trump's announcement, $800M in trades made on oil prices",https://www.9news.com.au/world/donald-trump-iran-updates-oil-futures-trade-suspicious-betting-activity-usa-world-news/1061ef6b-5fef-401c-b469-98016ccdb9c3,481.
+Just make it hard to fail,https://nekolucifer.substack.com/p/just-make-it-really-hard-to-fail,482.
+PyTorch 2.11 Released,https://pytorch.org/blog/pytorch-2-11-release-blog/,483.
+Pentagon to adopt Palantir AI as core US Military system,https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/,484.
+BYD is seeing a flood of new EV buyers,https://electrek.co/2026/03/20/byd-ev-demand-surges-drivers-ditch-gas-amid-rising-oil-prices/,485.
+The solar-powered compact car driving Tunisia's electric vehicle revolution,https://www.cnn.com/world/africa/electric-vehicle-solar-tunisia-spc,486.
+US to embed Palantir AI across military,https://thecradle.co/articles-id/36667,487.
+Iran launched unsuccessful attack on UK's Diego Garcia,https://www.bbc.com/news/articles/c5yljdgwppzo,488.
+Airlines Are Preparing for an Oil Crisis,https://www.wired.com/story/united-airlines-jet-fuel-alarm-economy/,489.
+Wheel Running in the Wild,https://royalsocietypublishing.org/rspb/article/281/1786/20140210/77146/Wheel-running-in-the-wildWheel-running-in-the-wild,490.
+TypeScript 6.0,https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/,491.
+"Fyn: An uv fork with new features, bug fixes, stripped telemetry",https://github.com/duriantaco/fyn,492.
+AI ends online anonymity: the ease of unmasking pseudonymous accounts,https://english.elpais.com/technology/2026-03-12/ai-ends-online-anonymity-the-ease-of-unmasking-pseudonymous-accounts.html,493.
+Senior European journalist suspended over AI-generated quotes,https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes,494.
+A Visual Guide to Attention Variants in Modern LLMs,https://magazine.sebastianraschka.com/p/visual-attention-variants,495.
+"UK Government to make ""plug-in solar"" available within months",https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months,496.
+"Delphi 13.1 Released, with ARM64 support",https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-13-florence-update-1/,497.
+"Stop naming buildings (and streets, and parks, and mountains) after people",https://fritinancy.substack.com/p/stop-naming-buildings-and-streets,498.
+A Conversation with Claude,https://www.noahpinion.blog/p/a-conversation-with-claude,499.
+Show HN: I made an email app inspired by Arc browser,https://demo.define.app,500.
+User Interface Hall of Fame (1999),http://hallofshame.gp.co.at/mfame.htm,501.
+The truth that haunts the Ramones: 'They sold more T-shirts than records',https://english.elpais.com/culture/2026-03-17/the-uncomfortable-truth-that-will-always-haunt-the-ramones-they-sold-more-t-shirts-than-records.html,502.
+"Tell HN: MS365 upgrade silently to 25 licenses, tried to charge me $1,035",item?id=47474827,503.
+LaGuardia Airport Closed After Plane Collided with Ground Vehicle,https://www.bloomberg.com/news/articles/2026-03-23/laguardia-closed-after-report-plane-collided-with-ground-vehicle,504.
+25 Years of Eggs,https://www.john-rush.com/posts/eggs-25-years-20260219.html,505.
+Jury signals tech titans on hook for social media addiction,https://techxplore.com/news/2026-03-jury-tech-titans-social-media.html,506.
+RustCC: Bringing Rust-Style Safety to C++17 via Policy Enforcement,https://github.com/yunquleonliu/RustCC-Profiler/blob/main/Rust_Cpp_Manifesto.md,507.
+"Even Before the Iran War, There Was a Growing Inflation Problem",https://newsletter.mikekonczal.com/p/even-before-the-iran-war-there-was,508.
+"We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical",https://trustcompliance.xyz,509.
+Designing AI Chip Software and Hardware,https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit?tab=t.0,510.
+Terrible real estate agent photographs,https://terriblerealestateagentphotos.com,511.
+Pilot and co-pilot killed after Air Canada jet collision at LaGuardia New York,https://www.theguardian.com/us-news/2026/mar/23/air-canada-plane-collides-with-ground-vehicle-at-new-yorks-laguardia-airport-halting-all-flights,512.
+C Bit-Field Pitfalls,https://www.os2museum.com/wp/bitfield-pitfalls/,513.
+Show HN: ClawMem – Open-source agent memory with SOTA local GPU retrieval,https://github.com/yoloshii/ClawMem,514.
+Pollock avoided hydrodynamic instabilities to paint with his dripping technique,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0223706&utm_source=clivethompson&utm_medium=email&utm_campaign=linkfest-43-archaeoacoustics-nocotourism-and-the,515.
+4chan's hamster-filled reminder US cos needn't comply with UK speech regulations,https://reason.com/2026/03/23/4chan-sends-hilarious-hamster-filled-reminder-that-u-s-companies-need-not-follow-british-speech-regulations/,516.
+Supreme Court declines to review press freedom case,https://www.npr.org/2026/03/23/nx-s1-5757440/supreme-court-press-freedom,517.
+Welcome to the AI agent arms race,https://www.axios.com/2026/03/23/openclaw-agents-nvidia-anthropic-perplexity,518.
+Germany Mandates ODF for Public Administration,https://linuxiac.com/germany-mandates-odf-for-public-administration/,519.
+Wikipedia RFC on banning LLM contributions,https://en.wikipedia.org/wiki/Wikipedia:Writing_articles_with_large_language_models/RfC,520.
+How the Iran war threatens global food supply,https://www.npr.org/2026/03/20/nx-s1-5750812/how-the-iran-war-threatens-global-food-supply,521.
+Show HN: The Two by Two Truth Diagram,https://kmrjohnson55.github.io/truth-diagram/,522.
+Turbo Pascal Deconstructed,https://simonwillison.net/2026/Mar/20/turbo-pascal/,523.
+Carbon dioxide levels are higher than humans have ever experienced,https://www.cnn.com/2026/03/19/climate/carbon-dioxide-blood-chemistry-public-health-climate-change,524.
+Are humans naturally violent? New research challenges long-held assumptions,https://phys.org/news/2026-03-humans-naturally-violent-held-assumptions.html,525.
+"Schizophrenia study finds new biomarker, drug candidate in mice",https://news.northwestern.edu/stories/2026/03/schizophrenia-study-finds-new-biomarker-drug-candidate-to-treat-cognitive-symptoms,526.
+Your rights when an airport checkpoint is staffed by ICE agents,https://papersplease.org/wp/2026/03/22/your-rights-when-an-airport-checkpoint-is-staffed-by-ice-agents/,527.
+Light on Glass: Why do you start making a game engine?,https://analogdreamdev.substack.com/p/light-on-glass,528.
+OpenAI CEO Sam Altman Exits Helion Energy's Board,https://www.reuters.com/sustainability/boards-policy-regulation/openai-ceo-sam-altman-exits-helion-energys-board-firms-explore-partnership-2026-03-23/,529.
+Scenes from the Death of the Pax Americana,https://paulkrugman.substack.com/p/scenes-from-the-death-of-the-pax,530.
+Claude Code and the Great Productivity Panic of 2026,https://www.bloomberg.com/news/articles/2026-02-26/ai-coding-agents-like-claude-code-are-fueling-a-productivity-panic-in-tech,531.
+"Roadrunner: A bipedal, wheeled robot for multi-modal locomotion [video]",https://www.youtube.com/watch?v=9kae-UAME1U,532.
+The OG MAGA: Make Apple Great Again (From Steve Job's Speech Itself),https://www.youtube.com/watch?v=EoM2Y2KO6kU,533.
+American cover-up of Japanese war crimes,https://en.wikipedia.org/wiki/American_cover-up_of_Japanese_war_crimes,534.
+China mapping the ocean floor as it prepares for submarine warfare with the US,https://www.japantimes.co.jp/news/2026/03/24/asia-pacific/politics/china-ocean-submarine-warfare-us/,535.
+Vertical Farms Tried to Compete with Open Field Farming. It Isn't Going Well,https://www.nytimes.com/2026/03/21/business/vertical-farms-tried-to-compete-with-open-field-farming-it-isnt-going-well.html,536.
+Walmart digital price labels coming to every store shelf in U.S. by end of 2026,https://www.cnbc.com/2026/03/21/walmart-digital-price-tags-will-be-in-every-us-store-by-end-of-2026.html,537.
+Matrix Valued Residuals,https://arxiv.org/abs/2506.22696,538.
+Scott Hanselman says he's working on Windows local accounts,https://twitter.com/shanselman/status/2035110958314745891,539.
+Show HN: EchoLive – Read-it-later app that reads to you with 600 AI voices,https://echolive.co/,540.
+I ran a 5-day experiment to see how fast Google reshapes your ad profile,https://nanobuilds.substack.com/p/how-fast-can-you-reshape-what-google,541.
+Traders placed $580M in oil bets ahead of Trump's social media post on Iran,https://www.ft.com/content/1171d623-3709-4f6e-8ded-a5df4ec57696,542.
+Rising health costs push some middle-aged adults to skip the doc until Medicare,https://www.usatoday.com/story/money/2026/03/22/healthcare-costs-middle-aged-adults-medicare/89231811007/,543.
+Storing 2 bytes of data in your Logitech mouse,https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/,544.
+What does the future of software engineering look like?,https://www.thoughtworks.com/about-us/events/the-future-of-software-development,545.
+Delve – Fake Compliance as a Service,https://substack.com/home/post/p-191342187,546.
+UN warns of record 'climate imbalance' as planetary warming accelerates,https://news.un.org/en/story/2026/03/1167178,547.
+US Labor Force Demographics Are Worsening,https://www.aei.org/domestic-policy/our-labor-force-demographics-are-getting-worse/,548.
+No AI Silver Bullet,https://smartmic.bearblog.dev/no-ai-silver-bullet/,549.
+Snowflake lays off documentation staff after they train AI replacement,https://threadreaderapp.com/thread/2035197183230709874.html,550.
+"Microsoft confirms a major Windows 11 update with faster Explorer, less Copilot",https://www.windowslatest.com/2026/03/21/microsoft-confirms-a-major-windows-11-update-with-faster-explorer-reduced-copilot-and-more/,551.
+Diego Garcia,https://en.wikipedia.org/wiki/Diego_Garcia,552.
+NASA wants to know how the launch industry's chic new rocket fuel explodes,https://arstechnica.com/space/2026/03/nasa-is-blowing-stuff-up-to-study-the-explosive-potential-of-methalox-rockets/,553.
+The Dude,https://yusufaytas.com/the-dude/,554.
+Oil traders bet millions minutes before Trump's Iran talks post,https://www.bbc.co.uk/news/articles/cg547ljepvzo,555.
+OpenClaw high level architecture review,https://contextbento.substack.com/p/openclaw-high-level-architecture,556.
+A single Keycloak commit broke our p99 latency,https://old.reddit.com/r/KeyCloak/comments/1rto63s/how_a_single_keycloak_commit_broke_our_p99/,557.
+The U.S. Ammo Shortage Is Worse Than You Think,https://www.wsj.com/opinion/the-u-s-ammo-shortage-is-worse-than-you-think-97096193,558.
+Show HN: Threadprocs – executables sharing one address space (0-copy pointers),https://github.com/jer-irl/threadprocs,559.
+Understaffing as a Form of Enshittification,https://pluralistic.net/2026/03/22/nobodys-home/,560.
+Israeli minister calls for annexation of southern Lebanon,https://www.reuters.com/world/middle-east/israeli-minister-calls-annexation-southern-lebanon-2026-03-23/,561.
+You're likely infected with a brain-eating virus you've never heard of,https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/,562.
+"Researchers Asked LLMs for Strategic Advice. They Got ""Trendslop"" in Return",https://hbr.org/2026/03/researchers-asked-llms-for-strategic-advice-they-got-trendslop-in-return,563.
+Tesla and SpaceX announce $25B 'Terafab' chip factory – it reeks of desperation,https://electrek.co/2026/03/22/tesla-spacex-terafab-chip-factory-ai-desperation/,564.
+Do Androids Dream of Electric Sheep?,https://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F,565.
+"Firefox 149 Available with XDG Portal File Picker, Rust-Based JPEG-XL Decoder",https://www.phoronix.com/news/Mozilla-Firefox-149,566.
+Colosseum gets a fresh look recreates the footprints of long-gone columns,https://apnews.com/article/italy-colosseum-restoration-tourism-rome-032cac4377572b89263247a038395c11,567.
+Air Canada CRJ collides with fire fighting truck on landing in New York,https://www.flightradar24.com/blog/flight-tracking-news/major-incident/air-canada-crj-collides-with-fire-fighting-truck-on-landing-in-new-york/,568.
+Revolut warns it risks backlash over support for energy-intensive AI and crypto,https://www.theguardian.com/business/2026/mar/24/revolut-ai-crypto-profits-us-banking-licence-uk,569.
+Zvec – A lightweight in-process vector database,https://zvec.org/en/,570.
+Zvec – A lightweight in-process vector database,https://zvec.org/en/,571.
+OpenAI to introduce ads to all ChatGPT free and Go users in US,https://www.reuters.com/business/media-telecom/openai-expand-ads-chatgpt-all-free-low-cost-users-information-reports-2026-03-21/,572.
+Kill Chain,https://artificialbureaucracy.substack.com/p/kill-chain,573.
+Palantir trial plugs into UK financial watchdog's data trove,https://www.theregister.com/2026/03/23/palantir_fca/,574.
+The Delve Scandal: A Y Combinator Darling Just Got Hit with a Fraud Accusation,https://www.inc.com/ben-sherry/the-delve-scandal-a-y-combinator-darling-just-got-hit-with-a-bombshell-fraud-accusation/91320652,575.
+FCC considering a ban for all foreign-made routers,https://bsky.app/profile/ericjgeller.com/post/3mhqxf2pzvz2j,576.
+Codex with a vague prompt just solved a bug in Ghostty,https://twitter.com/mitchellh/status/2029348087538565612,577.
+Emacs is the display server. Headless Firefox is the renderer,https://old.reddit.com/r/emacs/comments/1ry1q5q/embrel_emacs_browser_emacs_is_the_display_server/,578.
+OnlyFans owner Leonid Radvinsky dies of cancer at 43,https://www.ft.com/content/3451dc9c-dc09-435e-b32e-8e6feed87ab3,579.
+America's biggest problem (it's not what you think),https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/,580.
+Death of the IDE?,https://addyo.substack.com/p/death-of-the-ide,581.
+Traces of Evil,https://www.tracesofevil.com/,582.
+Glasses Cleaning Simulator,https://vole.wtf/glasses-cleaning/,583.
+Open Source becomes standard in Germany's Administration,https://www.heise.de/en/news/Administration-Open-Source-becomes-standard-11219712.html,584.
+SparkVSR: Video Super-Resolution You Can Control with Keyframes,item?id=47480759,585.
+Show HN: Vibefolio – a place to showcase your vibecoded projects,https://vibefolio.link/,586.
+Echoed – Discord Alternative,https://echoed.gg/,587.
+Nvidia will only produce one 88-core Vera CPU model,https://www.tomshardware.com/pc-components/cpus/nvidia-will-only-produce-one-88-core-vera-cpu-model-jensen-says-the-company-will-make-billions-of-dollars-from-a-single-sku,588.
+Couples where both WFH have 0.32 more babies,https://www.nber.org/papers/w34963,589.
+"Show HN: A personal CRM for events, meetups, IRL",https://payo.tech/,590.
+Dark Patterns from Google Workspace and Google Labs Flow,https://knowledge.workspace.google.com/admin/users/delete-or-remove-a-user-from-your-organization,591.
+Anyone know how long it will take to re-start Qatar's helium plants?,item?id=47474260,592.
+I hate: Programming Wayland applications,https://www.p4m.dev/posts/29/index.html,593.
+The Trouble with Seizing Kharg Island,https://www.theatlantic.com/international/2026/03/iran-trump-kharg-island/686487/,594.
+Moonless Earth Theory,https://en.wikipedia.org/wiki/Alexander_Abian,595.
+Optimization lessons from a Minecraft structure locator,https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/,596.
+SteamOS 3.8 use KDE Plasma with Wayland as default,https://store.steampowered.com/news/app/1675200/view/532126482488623649,597.
+Loom: An LLM agent framework for Go,https://github.com/teradata-labs/loom,598.
+We keep finding the raw material of DNA in asteroids–what's it telling us?,https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/,599.
+"Google replaces news headlines in the ""10 blue links"" with AI versions",https://www.techbuzz.ai/articles/google-quietly-replaces-news-headlines-with-ai-versions,600.
